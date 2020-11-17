@@ -1,0 +1,1195 @@
+﻿Log file open, 11/17/20 02:35:23
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPakFile: Display: Found Pak file ../../../FactoryGame/Content/Paks/FactoryGame-WindowsNoEditor.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../FactoryGame/Content/Paks/FactoryGame-WindowsNoEditor.pak.
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 4 named threads and 34 total threads with 3 sets of task threads.
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin ReplicationGraph
+LogPluginManager: Mounting plugin Wwise
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin BlueprintStats
+LogPluginManager: Mounting plugin OnlineFramework
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin Composure
+LogPluginManager: Mounting plugin LensDistortion
+LogPluginManager: Mounting plugin BlueprintMaterialTextureNodes
+LogPluginManager: Mounting plugin MediaIOFramework
+LogPluginManager: Mounting plugin OpenColorIO
+LogPluginManager: Mounting plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting plugin SteamController
+LogPluginManager: Mounting plugin RawInput
+LogPluginManager: Mounting plugin MfMedia
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystemEOS
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin EditorTests
+LogPluginManager: Mounting plugin FbxAutomationTestBuilder
+LogPluginManager: Mounting plugin FunctionalTestingEditor
+LogPluginManager: Mounting plugin RuntimeTests
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin CSSEditorToolsExtension
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: FOnlineSubsystemEOS: Init success.
+LogOnline: Display: STEAM: Loading Steam SDK 1.39
+LogOnline: Warning: STEAM: Steamworks: SteamAPI_Init failed with app ID: 526870, type: Non Steam EXE
+LogOnline: Warning: STEAM: Steamworks: SteamUtils() failed!
+LogOnline: Warning: STEAM: Steamworks: SteamUser() failed!
+LogOnline: Warning: STEAM: Steamworks: SteamFriends() failed!
+LogOnline: Warning: STEAM: Steamworks: SteamRemoteStorage() failed!
+LogOnline: Warning: STEAM: Steamworks: SteamUserStats() failed!
+LogOnline: Warning: STEAM: Steamworks: SteamMatchmakingServers() failed!
+LogOnline: Warning: STEAM: Steamworks: SteamApps() failed!
+LogOnline: Warning: STEAM: Steamworks: SteamNetworking() failed!
+LogOnline: Warning: STEAM: Steamworks: SteamMatchmaking() failed!
+LogOnline: STEAM: [AppId: 0] Client API initialized 0
+LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+LogOnline: Warning: STEAM: Steam API failed to initialize!
+LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+LogOnline: OSS: Unable to create OnlineSubsystem module STEAM
+LogOnline: Warning: STEAM: Steamworks: SteamAPI_Init failed with app ID: 526870, type: Non Steam EXE
+LogOnline: Warning: STEAM: Steamworks: SteamUtils() failed!
+LogOnline: Warning: STEAM: Steamworks: SteamUser() failed!
+LogOnline: Warning: STEAM: Steamworks: SteamFriends() failed!
+LogOnline: Warning: STEAM: Steamworks: SteamRemoteStorage() failed!
+LogOnline: Warning: STEAM: Steamworks: SteamUserStats() failed!
+LogOnline: Warning: STEAM: Steamworks: SteamMatchmakingServers() failed!
+LogOnline: Warning: STEAM: Steamworks: SteamApps() failed!
+LogOnline: Warning: STEAM: Steamworks: SteamNetworking() failed!
+LogOnline: Warning: STEAM: Steamworks: SteamMatchmaking() failed!
+LogOnline: STEAM: [AppId: 0] Client API initialized 0
+LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+LogOnline: Warning: STEAM: Steam API failed to initialize!
+LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+LogInit: Build: ++FactoryGame+main-CL-136408
+LogInit: Engine Version: 4.22.3-136408+++FactoryGame+main
+LogInit: Compatible Engine Version: 4.22.0-5660361+++FactoryGame+main
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz, GPU: NVIDIA GeForce GTX 1080 Ti
+LogInit: Compiled (64-bit): Nov 10 2020 15:51:12
+LogInit: Compiled with Visual C++: 19.16.27038.00
+LogInit: Build Configuration: Shipping
+LogInit: Branch Name: ++FactoryGame+main
+LogInit: Command Line:  -AUTH_LOGIN=unused -AUTH_PASSWORD=840867471a2d4539bea1858e7e608019 -AUTH_TYPE=exchangecode -epicapp=CrabEA -epicenv=Prod -EpicPortal -epicusername=Collbrotherz -epicuserid=bf32c28149ea4a7daeb8ea2058d0ab85 -epiclocale=en
+LogInit: Base Directory: D:/FILER/Spel/Epic Games/SatisfactoryEarlyAccess/FactoryGame/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Launcher File: D:/FILER/Spel/Epic Games/SatisfactoryEarlyAccess/launcher_id
+LogInit: Launcher ID: epic
+LogInit: Launcher Artifact: CrabEA
+LogInit: Presizing for max 2097152 objects, including 1 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogStreaming: Display: Async Loading initialized: Event Driven Loader: true, Async Loading Thread: true, Async Post Load: true
+LogInit: Object subsystem initialized
+[2020.11.17-01.35.23:562][  0]LogInit: Selected Device Profile: [WindowsNoEditor]
+[2020.11.17-01.35.23:562][  0]LogInit: Applying CVar settings loaded from the selected device profile: [WindowsNoEditor]
+[2020.11.17-01.35.23:566][  0]LogHAL: Display: Platform has ~ 16 GB [17112141824 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.11.17-01.35.23:566][  0]LogInit: Going up to parent DeviceProfile [Windows]
+[2020.11.17-01.35.23:566][  0]LogInit: Going up to parent DeviceProfile []
+[2020.11.17-01.35.23:566][  0]LogInit: Computer: DESKTOP-LI7GBJD
+[2020.11.17-01.35.23:566][  0]LogInit: User: Collbrothers
+[2020.11.17-01.35.23:566][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.11.17-01.35.23:566][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.11.17-01.35.23:566][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.11.17-01.35.23:566][  0]LogMemory: Platform Memory Stats for WindowsNoEditor
+[2020.11.17-01.35.23:566][  0]LogMemory: Process Physical Memory: 78.13 MB used, 78.13 MB peak
+[2020.11.17-01.35.23:566][  0]LogMemory: Process Virtual Memory: 91.75 MB used, 91.75 MB peak
+[2020.11.17-01.35.23:566][  0]LogMemory: Physical Memory: 13476.24 MB used,  2843.17 MB free, 16319.41 MB total
+[2020.11.17-01.35.23:566][  0]LogMemory: Virtual Memory: 4466.06 MB used,  134213264.00 MB free, 134217728.00 MB total
+[2020.11.17-01.35.23:657][  0]LogInit: Overriding language with engine culture configuration option (en-US-Posix).
+[2020.11.17-01.35.23:657][  0]LogInit: Overriding locale with engine culture configuration option (en-US-Posix).
+[2020.11.17-01.35.23:659][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/en-US-POSIX/Engine.locres' could not be opened for reading!
+[2020.11.17-01.35.23:660][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineFramework/Content/Localization/OnlineFramework/en-US-POSIX/OnlineFramework.locres' could not be opened for reading!
+[2020.11.17-01.35.23:660][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/en-US-POSIX/OnlineSubsystem.locres' could not be opened for reading!
+[2020.11.17-01.35.23:660][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/en-US-POSIX/OnlineSubsystemUtils.locres' could not be opened for reading!
+[2020.11.17-01.35.23:660][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemSteam/Content/Localization/OnlineSubsystemSteam/en-US-POSIX/OnlineSubsystemSteam.locres' could not be opened for reading!
+[2020.11.17-01.35.23:714][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.11.17-01.35.23:714][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.11.17-01.35.23:736][  0]LogD3D11RHI: D3D11 adapters:
+[2020.11.17-01.35.24:158][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080 Ti' (Feature Level 11_0)
+[2020.11.17-01.35.24:158][  0]LogD3D11RHI:       11127/0/8159 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.11.17-01.35.24:166][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.11.17-01.35.24:166][  0]LogD3D11RHI:       0/0/8159 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.11.17-01.35.24:166][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.11.17-01.35.24:186][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.11.17-01.35.24:188][  0]LogD3D11RHI:     GPU DeviceId: 0x1b06 (for the marketing name, search the web for "GPU Device Id")
+[2020.11.17-01.35.24:188][  0]LogWindows: EnumDisplayDevices:
+[2020.11.17-01.35.24:188][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:1)
+[2020.11.17-01.35.24:188][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080 Ti' (P:1 D:1)
+[2020.11.17-01.35.24:188][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2020.11.17-01.35.24:189][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2020.11.17-01.35.24:189][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.11.17-01.35.24:189][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080 Ti
+[2020.11.17-01.35.24:189][  0]LogD3D11RHI:   Driver Version: 456.71 (internal:27.21.14.5671, unified:456.71)
+[2020.11.17-01.35.24:189][  0]LogD3D11RHI:      Driver Date: 9-30-2020
+[2020.11.17-01.35.24:189][  0]LogRHI: Texture pool is 7788 MB (70% of 11127 MB)
+[2020.11.17-01.35.24:337][  0]LogD3D11RHI: Async texture creation enabled
+[2020.11.17-01.35.24:347][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.11.17-01.35.24:347][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.11.17-01.35.24:347][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.11.17-01.35.24:355][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.11.17-01.35.24:359][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Global and no native library supported.
+[2020.11.17-01.35.24:360][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Wwise and no native library supported.
+[2020.11.17-01.35.24:360][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Wwise_SC and no native library supported.
+[2020.11.17-01.35.24:360][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Wwise and no native library supported.
+[2020.11.17-01.35.24:360][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Wwise_SC and no native library supported.
+[2020.11.17-01.35.24:360][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Composure and no native library supported.
+[2020.11.17-01.35.24:360][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Composure_SC and no native library supported.
+[2020.11.17-01.35.24:360][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Composure and no native library supported.
+[2020.11.17-01.35.24:360][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Composure_SC and no native library supported.
+[2020.11.17-01.35.24:360][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: LensDistortion and no native library supported.
+[2020.11.17-01.35.24:360][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: LensDistortion_SC and no native library supported.
+[2020.11.17-01.35.24:360][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: LensDistortion and no native library supported.
+[2020.11.17-01.35.24:360][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: LensDistortion_SC and no native library supported.
+[2020.11.17-01.35.24:360][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: BlueprintMaterialTextureNodes and no native library supported.
+[2020.11.17-01.35.24:360][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: BlueprintMaterialTextureNodes_SC and no native library supported.
+[2020.11.17-01.35.24:360][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: BlueprintMaterialTextureNodes and no native library supported.
+[2020.11.17-01.35.24:360][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: BlueprintMaterialTextureNodes_SC and no native library supported.
+[2020.11.17-01.35.24:360][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: OpenColorIO and no native library supported.
+[2020.11.17-01.35.24:361][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: OpenColorIO_SC and no native library supported.
+[2020.11.17-01.35.24:361][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: OpenColorIO and no native library supported.
+[2020.11.17-01.35.24:361][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: OpenColorIO_SC and no native library supported.
+[2020.11.17-01.35.24:361][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: PythonScriptPlugin and no native library supported.
+[2020.11.17-01.35.24:361][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: PythonScriptPlugin_SC and no native library supported.
+[2020.11.17-01.35.24:361][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: PythonScriptPlugin and no native library supported.
+[2020.11.17-01.35.24:361][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: PythonScriptPlugin_SC and no native library supported.
+[2020.11.17-01.35.24:361][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: EditorTests and no native library supported.
+[2020.11.17-01.35.24:361][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: EditorTests_SC and no native library supported.
+[2020.11.17-01.35.24:361][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: EditorTests and no native library supported.
+[2020.11.17-01.35.24:361][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: EditorTests_SC and no native library supported.
+[2020.11.17-01.35.24:361][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: RuntimeTests and no native library supported.
+[2020.11.17-01.35.24:361][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: RuntimeTests_SC and no native library supported.
+[2020.11.17-01.35.24:361][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: RuntimeTests and no native library supported.
+[2020.11.17-01.35.24:361][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: RuntimeTests_SC and no native library supported.
+[2020.11.17-01.35.24:361][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: CSSEditorToolsExtension and no native library supported.
+[2020.11.17-01.35.24:361][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: CSSEditorToolsExtension_SC and no native library supported.
+[2020.11.17-01.35.24:361][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: CSSEditorToolsExtension and no native library supported.
+[2020.11.17-01.35.24:361][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: CSSEditorToolsExtension_SC and no native library supported.
+[2020.11.17-01.35.24:361][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Paper2D and no native library supported.
+[2020.11.17-01.35.24:362][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Paper2D_SC and no native library supported.
+[2020.11.17-01.35.24:362][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Paper2D and no native library supported.
+[2020.11.17-01.35.24:362][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: Paper2D_SC and no native library supported.
+[2020.11.17-01.35.24:362][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: AnimationSharing and no native library supported.
+[2020.11.17-01.35.24:362][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: AnimationSharing_SC and no native library supported.
+[2020.11.17-01.35.24:362][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: AnimationSharing and no native library supported.
+[2020.11.17-01.35.24:362][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: AnimationSharing_SC and no native library supported.
+[2020.11.17-01.35.24:362][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: CryptoKeys and no native library supported.
+[2020.11.17-01.35.24:362][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: CryptoKeys_SC and no native library supported.
+[2020.11.17-01.35.24:362][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: CryptoKeys and no native library supported.
+[2020.11.17-01.35.24:362][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: CryptoKeys_SC and no native library supported.
+[2020.11.17-01.35.24:362][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: DatasmithContent and no native library supported.
+[2020.11.17-01.35.24:362][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: DatasmithContent_SC and no native library supported.
+[2020.11.17-01.35.24:362][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: DatasmithContent and no native library supported.
+[2020.11.17-01.35.24:362][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: DatasmithContent_SC and no native library supported.
+[2020.11.17-01.35.24:362][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: MediaCompositing and no native library supported.
+[2020.11.17-01.35.24:362][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: MediaCompositing_SC and no native library supported.
+[2020.11.17-01.35.24:362][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: MediaCompositing and no native library supported.
+[2020.11.17-01.35.24:362][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: MediaCompositing_SC and no native library supported.
+[2020.11.17-01.35.24:373][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.11.17-01.35.24:397][  0]LogSlate: Using FreeType 2.6.0
+[2020.11.17-01.35.24:397][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.11.17-01.35.24:568][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: FactoryGame and no native library supported.
+[2020.11.17-01.35.24:568][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: FactoryGame_SC and no native library supported.
+[2020.11.17-01.35.24:568][  0]LogRHI: Display: Opened pipeline cache after state change and enqueued 0 of 0 tasks for precompile.
+[2020.11.17-01.35.24:568][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: FactoryGame and no native library supported.
+[2020.11.17-01.35.24:568][  0]LogShaderLibrary: Display: Failed to load Shared Shader Library: FactoryGame_SC and no native library supported.
+[2020.11.17-01.35.24:568][  0]LogRHI: Display: Opened pipeline cache after state change and enqueued 0 of 0 tasks for precompile.
+[2020.11.17-01.35.24:568][  0]LogRHI: Display: Failed to open default shader pipeline cache for FactoryGame using shader platform 0.
+[2020.11.17-01.35.24:568][  0]LogRHI: Display: Failed to open default shader pipeline cache for FactoryGame using shader platform 0.
+[2020.11.17-01.35.24:568][  0]LogInit: Overriding language with engine culture configuration option (en-US-Posix).
+[2020.11.17-01.35.24:568][  0]LogInit: Overriding locale with engine culture configuration option (en-US-Posix).
+[2020.11.17-01.35.24:574][  0]LogTextLocalizationResource: LocRes '../../../FactoryGame/Content/Localization/Game/en/Game.locres' could not be opened for reading!
+[2020.11.17-01.35.24:577][  0]LogTextLocalizationManager: Compacting localization data took   0.61ms
+[2020.11.17-01.35.24:637][  0]LogAssetRegistry: FAssetRegistry took 0.0590 seconds to start up
+[2020.11.17-01.35.24:642][  0]LogEnum: Warning: EnumRedirect for enum ECachedNatType maps 'ECachedNATType::CNT_MAX' to invalid value 'ECachedNatType::CNT_MAX'!
+[2020.11.17-01.35.24:722][  0]LogStreaming: Display: Flushing async loaders.
+[2020.11.17-01.35.24:722][  0]LogPackageLocalizationCache: Processed 16 localized package path(s) for 2 prioritized culture(s) in 0.000100 seconds
+[2020.11.17-01.35.24:722][  0]LogPakFile: New pak file ../../../FactoryGame/Content/Paks/FactoryGame-WindowsNoEditor.pak added to pak precacher.
+[2020.11.17-01.35.24:764][  0]LogInit: Selected Device Profile: [WindowsNoEditor]
+[2020.11.17-01.35.24:793][  0]LogNetVersion: FactoryGame 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 3761731716)
+[2020.11.17-01.35.25:505][  0]LogAkAudio: Wwise(R) SDK Version 2018.1.1 Build 6727. Copyright (c) 2006-2018 Audiokinetic Inc.
+[2020.11.17-01.35.25:507][  0]LogInit: Audiokinetic Audio Device setting bank directory to ../../../FactoryGame/Content/WwiseAudio/Windows/.
+[2020.11.17-01.35.25:596][  0]LogInit: Audiokinetic Audio Device initialized.
+[2020.11.17-01.35.35:780][  0]LogMoviePlayer: Initializing movie player
+[2020.11.17-01.35.39:857][  0]GameAnalyticsModule: Display: GameAnalyticsModule has started!
+[2020.11.17-01.35.39:857][  0]LogStreaming: Warning: Failed to read file 'C:/Users/Collb/AppData/Local/FactoryGame/Saved/SaveGames/GameAnalytics.sav' error.
+[2020.11.17-01.35.39:871][  0]LogUObjectArray: 154246 objects as part of root set at end of initial load.
+[2020.11.17-01.35.39:871][  0]LogUObjectArray: 2 objects are not in the root set, but can never be destroyed because they are in the DisregardForGC set.
+[2020.11.17-01.35.39:871][  0]LogUObjectAllocator: 32279648 out of 0 bytes used by permanent object pool.
+[2020.11.17-01.35.39:871][  0]LogUObjectArray: CloseDisregardForGC: 154246/154246 objects in disregard for GC pool
+[2020.11.17-01.35.39:949][  0]LogEngine: Initializing Engine...
+[2020.11.17-01.35.39:962][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2020.11.17-01.35.40:281][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.11.17-01.35.40:347][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.11.17-01.35.40:465][  0]LogInit: XAudio2 using 'Hörlurar (Razer Nari Ultimate - Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.11.17-01.35.40:499][  0]LogInit: FAudioDevice initialized.
+[2020.11.17-01.35.40:510][  0]LogNetVersion: Set ProjectVersion to 0.0.1.0. Version Checksum will be recalculated on next use.
+[2020.11.17-01.35.40:510][  0]LogInit: Texture streaming: Enabled
+[2020.11.17-01.35.40:664][  0]LogOnline: Warning: STEAM: Steamworks: SteamAPI_Init failed with app ID: 526870, type: Non Steam EXE
+[2020.11.17-01.35.40:664][  0]LogOnline: Warning: STEAM: Steamworks: SteamUtils() failed!
+[2020.11.17-01.35.40:664][  0]LogOnline: Warning: STEAM: Steamworks: SteamUser() failed!
+[2020.11.17-01.35.40:664][  0]LogOnline: Warning: STEAM: Steamworks: SteamFriends() failed!
+[2020.11.17-01.35.40:664][  0]LogOnline: Warning: STEAM: Steamworks: SteamRemoteStorage() failed!
+[2020.11.17-01.35.40:664][  0]LogOnline: Warning: STEAM: Steamworks: SteamUserStats() failed!
+[2020.11.17-01.35.40:664][  0]LogOnline: Warning: STEAM: Steamworks: SteamMatchmakingServers() failed!
+[2020.11.17-01.35.40:664][  0]LogOnline: Warning: STEAM: Steamworks: SteamApps() failed!
+[2020.11.17-01.35.40:664][  0]LogOnline: Warning: STEAM: Steamworks: SteamNetworking() failed!
+[2020.11.17-01.35.40:664][  0]LogOnline: Warning: STEAM: Steamworks: SteamMatchmaking() failed!
+[2020.11.17-01.35.40:664][  0]LogOnline: STEAM: [AppId: 0] Client API initialized 0
+[2020.11.17-01.35.40:664][  0]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2020.11.17-01.35.40:664][  0]LogOnline: Warning: STEAM: Steam API failed to initialize!
+[2020.11.17-01.35.40:664][  0]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2020.11.17-01.35.40:719][  0]LogOnline: Warning: STEAM: Steamworks: SteamAPI_Init failed with app ID: 526870, type: Non Steam EXE
+[2020.11.17-01.35.40:719][  0]LogOnline: Warning: STEAM: Steamworks: SteamUtils() failed!
+[2020.11.17-01.35.40:719][  0]LogOnline: Warning: STEAM: Steamworks: SteamUser() failed!
+[2020.11.17-01.35.40:719][  0]LogOnline: Warning: STEAM: Steamworks: SteamFriends() failed!
+[2020.11.17-01.35.40:719][  0]LogOnline: Warning: STEAM: Steamworks: SteamRemoteStorage() failed!
+[2020.11.17-01.35.40:719][  0]LogOnline: Warning: STEAM: Steamworks: SteamUserStats() failed!
+[2020.11.17-01.35.40:719][  0]LogOnline: Warning: STEAM: Steamworks: SteamMatchmakingServers() failed!
+[2020.11.17-01.35.40:719][  0]LogOnline: Warning: STEAM: Steamworks: SteamApps() failed!
+[2020.11.17-01.35.40:719][  0]LogOnline: Warning: STEAM: Steamworks: SteamNetworking() failed!
+[2020.11.17-01.35.40:719][  0]LogOnline: Warning: STEAM: Steamworks: SteamMatchmaking() failed!
+[2020.11.17-01.35.40:719][  0]LogOnline: STEAM: [AppId: 0] Client API initialized 0
+[2020.11.17-01.35.40:719][  0]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2020.11.17-01.35.40:719][  0]LogOnline: Warning: STEAM: Steam API failed to initialize!
+[2020.11.17-01.35.40:719][  0]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2020.11.17-01.35.40:800][  0]LogOnline: Warning: STEAM: Steamworks: SteamAPI_Init failed with app ID: 526870, type: Non Steam EXE
+[2020.11.17-01.35.40:800][  0]LogOnline: Warning: STEAM: Steamworks: SteamUtils() failed!
+[2020.11.17-01.35.40:800][  0]LogOnline: Warning: STEAM: Steamworks: SteamUser() failed!
+[2020.11.17-01.35.40:800][  0]LogOnline: Warning: STEAM: Steamworks: SteamFriends() failed!
+[2020.11.17-01.35.40:800][  0]LogOnline: Warning: STEAM: Steamworks: SteamRemoteStorage() failed!
+[2020.11.17-01.35.40:800][  0]LogOnline: Warning: STEAM: Steamworks: SteamUserStats() failed!
+[2020.11.17-01.35.40:800][  0]LogOnline: Warning: STEAM: Steamworks: SteamMatchmakingServers() failed!
+[2020.11.17-01.35.40:800][  0]LogOnline: Warning: STEAM: Steamworks: SteamApps() failed!
+[2020.11.17-01.35.40:800][  0]LogOnline: Warning: STEAM: Steamworks: SteamNetworking() failed!
+[2020.11.17-01.35.40:800][  0]LogOnline: Warning: STEAM: Steamworks: SteamMatchmaking() failed!
+[2020.11.17-01.35.40:800][  0]LogOnline: STEAM: [AppId: 0] Client API initialized 0
+[2020.11.17-01.35.40:800][  0]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2020.11.17-01.35.40:800][  0]LogOnline: Warning: STEAM: Steam API failed to initialize!
+[2020.11.17-01.35.40:800][  0]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2020.11.17-01.35.40:801][  0]LogSave: Display: Migrated 0 save files from old save directory [C:/Users/Collb/AppData/Local/FactoryGame/Saved/SaveGames/] to new save directory [C:/Users/Collb/AppData/Local/FactoryGame/Saved/SaveGames/bf32c28149ea4a7daeb8ea2058d0ab85/]
+[2020.11.17-01.35.40:801][  0]LogSave: Display: Created 0 backups old save directory [C:/Users/Collb/AppData/Local/FactoryGame/Saved/SaveGames/] to new save directory [C:/Users/Collb/AppData/Local/FactoryGame/Saved/SaveGames/bf32c28149ea4a7daeb8ea2058d0ab85/]
+[2020.11.17-01.35.40:911][  0]GameAnalyticsModule: Display: Loaded GUID 463FA96C-4F89-6A73-9830-D88746F5D15F
+[2020.11.17-01.35.40:911][  0]LogOnline: Warning: OSS: [EOS SDK | Plugin] Begin Player Session...
+[2020.11.17-01.35.40:941][  0]LogGame: Enable tab and nav keys: flase
+[2020.11.17-01.35.40:941][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.17-01.35.41:001][  0]LogOnline: Warning: STEAM: Steamworks: SteamAPI_Init failed with app ID: 526870, type: Non Steam EXE
+[2020.11.17-01.35.41:001][  0]LogOnline: Warning: STEAM: Steamworks: SteamUtils() failed!
+[2020.11.17-01.35.41:001][  0]LogOnline: Warning: STEAM: Steamworks: SteamUser() failed!
+[2020.11.17-01.35.41:001][  0]LogOnline: Warning: STEAM: Steamworks: SteamFriends() failed!
+[2020.11.17-01.35.41:001][  0]LogOnline: Warning: STEAM: Steamworks: SteamRemoteStorage() failed!
+[2020.11.17-01.35.41:001][  0]LogOnline: Warning: STEAM: Steamworks: SteamUserStats() failed!
+[2020.11.17-01.35.41:001][  0]LogOnline: Warning: STEAM: Steamworks: SteamMatchmakingServers() failed!
+[2020.11.17-01.35.41:001][  0]LogOnline: Warning: STEAM: Steamworks: SteamApps() failed!
+[2020.11.17-01.35.41:001][  0]LogOnline: Warning: STEAM: Steamworks: SteamNetworking() failed!
+[2020.11.17-01.35.41:001][  0]LogOnline: Warning: STEAM: Steamworks: SteamMatchmaking() failed!
+[2020.11.17-01.35.41:001][  0]LogOnline: STEAM: [AppId: 0] Client API initialized 0
+[2020.11.17-01.35.41:001][  0]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2020.11.17-01.35.41:001][  0]LogOnline: Warning: STEAM: Steam API failed to initialize!
+[2020.11.17-01.35.41:001][  0]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2020.11.17-01.35.41:057][  0]LogOnline: Warning: STEAM: Steamworks: SteamAPI_Init failed with app ID: 526870, type: Non Steam EXE
+[2020.11.17-01.35.41:057][  0]LogOnline: Warning: STEAM: Steamworks: SteamUtils() failed!
+[2020.11.17-01.35.41:057][  0]LogOnline: Warning: STEAM: Steamworks: SteamUser() failed!
+[2020.11.17-01.35.41:057][  0]LogOnline: Warning: STEAM: Steamworks: SteamFriends() failed!
+[2020.11.17-01.35.41:057][  0]LogOnline: Warning: STEAM: Steamworks: SteamRemoteStorage() failed!
+[2020.11.17-01.35.41:057][  0]LogOnline: Warning: STEAM: Steamworks: SteamUserStats() failed!
+[2020.11.17-01.35.41:057][  0]LogOnline: Warning: STEAM: Steamworks: SteamMatchmakingServers() failed!
+[2020.11.17-01.35.41:057][  0]LogOnline: Warning: STEAM: Steamworks: SteamApps() failed!
+[2020.11.17-01.35.41:057][  0]LogOnline: Warning: STEAM: Steamworks: SteamNetworking() failed!
+[2020.11.17-01.35.41:057][  0]LogOnline: Warning: STEAM: Steamworks: SteamMatchmaking() failed!
+[2020.11.17-01.35.41:057][  0]LogOnline: STEAM: [AppId: 0] Client API initialized 0
+[2020.11.17-01.35.41:057][  0]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2020.11.17-01.35.41:057][  0]LogOnline: Warning: STEAM: Steam API failed to initialize!
+[2020.11.17-01.35.41:057][  0]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2020.11.17-01.35.41:163][  0]LogOnline: Warning: STEAM: Steamworks: SteamAPI_Init failed with app ID: 526870, type: Non Steam EXE
+[2020.11.17-01.35.41:164][  0]LogOnline: Warning: STEAM: Steamworks: SteamUtils() failed!
+[2020.11.17-01.35.41:164][  0]LogOnline: Warning: STEAM: Steamworks: SteamUser() failed!
+[2020.11.17-01.35.41:164][  0]LogOnline: Warning: STEAM: Steamworks: SteamFriends() failed!
+[2020.11.17-01.35.41:164][  0]LogOnline: Warning: STEAM: Steamworks: SteamRemoteStorage() failed!
+[2020.11.17-01.35.41:164][  0]LogOnline: Warning: STEAM: Steamworks: SteamUserStats() failed!
+[2020.11.17-01.35.41:164][  0]LogOnline: Warning: STEAM: Steamworks: SteamMatchmakingServers() failed!
+[2020.11.17-01.35.41:164][  0]LogOnline: Warning: STEAM: Steamworks: SteamApps() failed!
+[2020.11.17-01.35.41:164][  0]LogOnline: Warning: STEAM: Steamworks: SteamNetworking() failed!
+[2020.11.17-01.35.41:164][  0]LogOnline: Warning: STEAM: Steamworks: SteamMatchmaking() failed!
+[2020.11.17-01.35.41:164][  0]LogOnline: STEAM: [AppId: 0] Client API initialized 0
+[2020.11.17-01.35.41:164][  0]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2020.11.17-01.35.41:164][  0]LogOnline: Warning: STEAM: Steam API failed to initialize!
+[2020.11.17-01.35.41:164][  0]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2020.11.17-01.35.41:219][  0]LogOnline: Warning: STEAM: Steamworks: SteamAPI_Init failed with app ID: 526870, type: Non Steam EXE
+[2020.11.17-01.35.41:219][  0]LogOnline: Warning: STEAM: Steamworks: SteamUtils() failed!
+[2020.11.17-01.35.41:219][  0]LogOnline: Warning: STEAM: Steamworks: SteamUser() failed!
+[2020.11.17-01.35.41:219][  0]LogOnline: Warning: STEAM: Steamworks: SteamFriends() failed!
+[2020.11.17-01.35.41:219][  0]LogOnline: Warning: STEAM: Steamworks: SteamRemoteStorage() failed!
+[2020.11.17-01.35.41:219][  0]LogOnline: Warning: STEAM: Steamworks: SteamUserStats() failed!
+[2020.11.17-01.35.41:219][  0]LogOnline: Warning: STEAM: Steamworks: SteamMatchmakingServers() failed!
+[2020.11.17-01.35.41:219][  0]LogOnline: Warning: STEAM: Steamworks: SteamApps() failed!
+[2020.11.17-01.35.41:220][  0]LogOnline: Warning: STEAM: Steamworks: SteamNetworking() failed!
+[2020.11.17-01.35.41:220][  0]LogOnline: Warning: STEAM: Steamworks: SteamMatchmaking() failed!
+[2020.11.17-01.35.41:220][  0]LogOnline: STEAM: [AppId: 0] Client API initialized 0
+[2020.11.17-01.35.41:220][  0]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2020.11.17-01.35.41:220][  0]LogOnline: Warning: STEAM: Steam API failed to initialize!
+[2020.11.17-01.35.41:220][  0]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2020.11.17-01.35.41:220][  0]LogInit: Display: Game Engine Initialized.
+[2020.11.17-01.35.41:220][  0]LogNetVersion: Set ProjectVersion to ++FactoryGame+main-CL-136408. Version Checksum will be recalculated on next use.
+[2020.11.17-01.35.41:220][  0]LogInit: OnPostEngineInit has been broadcasted successfully.
+[2020.11.17-01.35.41:220][  0]LogInit: Display: Starting Game.
+[2020.11.17-01.35.41:220][  0]LogNet: Browse: /Game/FactoryGame/Map/MenuScenes/MenuScene_02?Name=Player
+[2020.11.17-01.35.41:235][  0]LogLoad: LoadMap: /Game/FactoryGame/Map/MenuScenes/MenuScene_02?Name=Player
+[2020.11.17-01.35.41:289][  0]LogUObjectHash: Compacting FUObjectHashTables data took   4.95ms
+[2020.11.17-01.35.41:775][  0]LogAIModule: Creating AISystem for world MenuScene_02
+[2020.11.17-01.35.41:776][  0]LogLoad: Game class is 'BP_GameModeMenu_C'
+[2020.11.17-01.35.42:208][  0]LogWorld: Bringing World /Game/FactoryGame/Map/MenuScenes/MenuScene_02.MenuScene_02 up for play (max tick rate 0) at 2020.11.17-02.35.42
+[2020.11.17-01.35.42:211][  0]LogWorld: Bringing up level for play took: 0.033557
+[2020.11.17-01.35.42:320][  0]LogOnline: Warning: STEAM: Steamworks: SteamAPI_Init failed with app ID: 526870, type: Non Steam EXE
+[2020.11.17-01.35.42:320][  0]LogOnline: Warning: STEAM: Steamworks: SteamUtils() failed!
+[2020.11.17-01.35.42:320][  0]LogOnline: Warning: STEAM: Steamworks: SteamUser() failed!
+[2020.11.17-01.35.42:320][  0]LogOnline: Warning: STEAM: Steamworks: SteamFriends() failed!
+[2020.11.17-01.35.42:320][  0]LogOnline: Warning: STEAM: Steamworks: SteamRemoteStorage() failed!
+[2020.11.17-01.35.42:320][  0]LogOnline: Warning: STEAM: Steamworks: SteamUserStats() failed!
+[2020.11.17-01.35.42:320][  0]LogOnline: Warning: STEAM: Steamworks: SteamMatchmakingServers() failed!
+[2020.11.17-01.35.42:320][  0]LogOnline: Warning: STEAM: Steamworks: SteamApps() failed!
+[2020.11.17-01.35.42:320][  0]LogOnline: Warning: STEAM: Steamworks: SteamNetworking() failed!
+[2020.11.17-01.35.42:320][  0]LogOnline: Warning: STEAM: Steamworks: SteamMatchmaking() failed!
+[2020.11.17-01.35.42:320][  0]LogOnline: STEAM: [AppId: 0] Client API initialized 0
+[2020.11.17-01.35.42:320][  0]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2020.11.17-01.35.42:320][  0]LogOnline: Warning: STEAM: Steam API failed to initialize!
+[2020.11.17-01.35.42:320][  0]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2020.11.17-01.35.42:320][  0]LogOnlineIdentity: Error: OSS: EOS-OSS: GetUniquePlayerId() with LocalUserNum failed. Had no local maping for the numer in EOS or external registred accounts: Num: 0
+[2020.11.17-01.35.42:320][  0]LogOnlineIdentity: Error: OSS: EOS-OSS: GetUniquePlayerId() with LocalUserNum failed. Had no local maping for the numer in EOS or external registred accounts: Num: 0
+[2020.11.17-01.35.42:320][  0]LogGame: Warning: Player start 'PlayerStart_2' has no tag.
+[2020.11.17-01.35.42:335][  0]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.11.17-01.35.42:335][  0]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.11.17-01.35.42:335][  0]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.11.17-01.35.42:402][  0]LogSlate: Took 0.005660 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.11.17-01.35.42:409][  0]LogConfig: Error: Unidentified category type
+[2020.11.17-01.35.42:550][  0]LogOnline: Warning: STEAM: Steamworks: SteamAPI_Init failed with app ID: 526870, type: Non Steam EXE
+[2020.11.17-01.35.42:550][  0]LogOnline: Warning: STEAM: Steamworks: SteamUtils() failed!
+[2020.11.17-01.35.42:550][  0]LogOnline: Warning: STEAM: Steamworks: SteamUser() failed!
+[2020.11.17-01.35.42:550][  0]LogOnline: Warning: STEAM: Steamworks: SteamFriends() failed!
+[2020.11.17-01.35.42:550][  0]LogOnline: Warning: STEAM: Steamworks: SteamRemoteStorage() failed!
+[2020.11.17-01.35.42:550][  0]LogOnline: Warning: STEAM: Steamworks: SteamUserStats() failed!
+[2020.11.17-01.35.42:550][  0]LogOnline: Warning: STEAM: Steamworks: SteamMatchmakingServers() failed!
+[2020.11.17-01.35.42:550][  0]LogOnline: Warning: STEAM: Steamworks: SteamApps() failed!
+[2020.11.17-01.35.42:550][  0]LogOnline: Warning: STEAM: Steamworks: SteamNetworking() failed!
+[2020.11.17-01.35.42:550][  0]LogOnline: Warning: STEAM: Steamworks: SteamMatchmaking() failed!
+[2020.11.17-01.35.42:550][  0]LogOnline: STEAM: [AppId: 0] Client API initialized 0
+[2020.11.17-01.35.42:550][  0]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2020.11.17-01.35.42:550][  0]LogOnline: Warning: STEAM: Steam API failed to initialize!
+[2020.11.17-01.35.42:550][  0]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2020.11.17-01.35.42:550][  0]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.11.17-01.35.42:551][  0]LogLoad: Took 1.315037 seconds to LoadMap(/Game/FactoryGame/Map/MenuScenes/MenuScene_02)
+[2020.11.17-01.35.42:577][  0]LogRawInputWindows: Warning: Found device 0 devices
+[2020.11.17-01.35.42:578][  0]LogRawInputWindows: Warning: Found device 0 devices
+[2020.11.17-01.35.42:578][  0]LogRawInputWindows: Warning: Device was registered succesfully but not connected (Usage:4 UsagePage:1)
+[2020.11.17-01.35.42:578][  0]LogRawInputWindows: Warning: Found device 1 devices
+[2020.11.17-01.35.42:578][  0]LogRawInputWindows: Warning: Device was registered succesfully but not connected (Usage:5 UsagePage:1)
+[2020.11.17-01.35.42:662][  0]LogSteamController: SteamController is not available
+[2020.11.17-01.35.44:229][  0]LogLoad: (Engine Initialization) Total time: 22.00 seconds
+[2020.11.17-01.35.44:230][  0]LogContentStreaming: Texture pool size now 2100 MB
+[2020.11.17-01.35.44:349][  1]LogSlate: Took 0.020471 seconds to synchronously load lazily loaded font '../../../FactoryGame/Content/FactoryGame/Interface/Font/OpenSans-Regular.ufont' (213K)
+[2020.11.17-01.35.44:358][  1]LogSlate: Took 0.001435 seconds to synchronously load lazily loaded font '../../../FactoryGame/Content/FactoryGame/Interface/Font/OpenSans-SemiBold.ufont' (216K)
+[2020.11.17-01.35.44:363][  1]LogSlate: Took 0.001540 seconds to synchronously load lazily loaded font '../../../FactoryGame/Content/FactoryGame/Interface/Font/OpenSans-Bold.ufont' (220K)
+[2020.11.17-01.35.44:364][  1]LogStreaming: Display: Suspending async loading (1)
+[2020.11.17-01.35.44:412][  1]LogStreaming: Display: Resuming async loading (0)
+[2020.11.17-01.35.44:418][  2]LogRenderer: Reallocating scene render targets to support 1920x1080 Format 10 NumSamples 1 (Frame:1).
+[2020.11.17-01.35.44:424][  2]LogStaticMesh: Allocated 512x246x64 distance field atlas = 7.7Mb, with 131 objects containing 5.0Mb backing data
+[2020.11.17-01.35.46:579][104]LogOnlineIdentity: OSS: Regestring NotifyOnPresenceChanged and got handle: 15 on the user manager at 000002185A07AB00
+[2020.11.17-01.35.46:579][104]LogOnlineIdentity: OSS: Adding notify on auth time out for user: 0
+[2020.11.17-01.35.46:579][104]LogOnlineIdentity: OSS: Adding notify on auth time out for user: 0
+[2020.11.17-01.35.46:661][104]LogOnline: Warning: STEAM: Steamworks: SteamAPI_Init failed with app ID: 526870, type: Non Steam EXE
+[2020.11.17-01.35.46:661][104]LogOnline: Warning: STEAM: Steamworks: SteamUtils() failed!
+[2020.11.17-01.35.46:661][104]LogOnline: Warning: STEAM: Steamworks: SteamUser() failed!
+[2020.11.17-01.35.46:661][104]LogOnline: Warning: STEAM: Steamworks: SteamFriends() failed!
+[2020.11.17-01.35.46:661][104]LogOnline: Warning: STEAM: Steamworks: SteamRemoteStorage() failed!
+[2020.11.17-01.35.46:661][104]LogOnline: Warning: STEAM: Steamworks: SteamUserStats() failed!
+[2020.11.17-01.35.46:661][104]LogOnline: Warning: STEAM: Steamworks: SteamMatchmakingServers() failed!
+[2020.11.17-01.35.46:661][104]LogOnline: Warning: STEAM: Steamworks: SteamApps() failed!
+[2020.11.17-01.35.46:661][104]LogOnline: Warning: STEAM: Steamworks: SteamNetworking() failed!
+[2020.11.17-01.35.46:661][104]LogOnline: Warning: STEAM: Steamworks: SteamMatchmaking() failed!
+[2020.11.17-01.35.46:661][104]LogOnline: STEAM: [AppId: 0] Client API initialized 0
+[2020.11.17-01.35.46:661][104]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2020.11.17-01.35.46:661][104]LogOnline: Warning: STEAM: Steam API failed to initialize!
+[2020.11.17-01.35.46:661][104]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2020.11.17-01.35.46:661][104]GameAnalyticsModule: Warning: AnalyticsService not initialized for Google Analytics
+[2020.11.17-01.35.46:661][104]GameAnalyticsModule: Display: Sent CCU heartbeat
+[2020.11.17-01.35.46:716][104]LogOnline: Warning: STEAM: Steamworks: SteamAPI_Init failed with app ID: 526870, type: Non Steam EXE
+[2020.11.17-01.35.46:716][104]LogOnline: Warning: STEAM: Steamworks: SteamUtils() failed!
+[2020.11.17-01.35.46:716][104]LogOnline: Warning: STEAM: Steamworks: SteamUser() failed!
+[2020.11.17-01.35.46:716][104]LogOnline: Warning: STEAM: Steamworks: SteamFriends() failed!
+[2020.11.17-01.35.46:716][104]LogOnline: Warning: STEAM: Steamworks: SteamRemoteStorage() failed!
+[2020.11.17-01.35.46:716][104]LogOnline: Warning: STEAM: Steamworks: SteamUserStats() failed!
+[2020.11.17-01.35.46:716][104]LogOnline: Warning: STEAM: Steamworks: SteamMatchmakingServers() failed!
+[2020.11.17-01.35.46:716][104]LogOnline: Warning: STEAM: Steamworks: SteamApps() failed!
+[2020.11.17-01.35.46:716][104]LogOnline: Warning: STEAM: Steamworks: SteamNetworking() failed!
+[2020.11.17-01.35.46:716][104]LogOnline: Warning: STEAM: Steamworks: SteamMatchmaking() failed!
+[2020.11.17-01.35.46:716][104]LogOnline: STEAM: [AppId: 0] Client API initialized 0
+[2020.11.17-01.35.46:716][104]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2020.11.17-01.35.46:716][104]LogOnline: Warning: STEAM: Steam API failed to initialize!
+[2020.11.17-01.35.46:716][104]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2020.11.17-01.35.47:477][152]LogOnlineIdentity: OSS: Presence update notification
+[2020.11.17-01.35.47:477][152]LogOnlineIdentity: OSS: The presence udpate was for an unmapeed user... 
+[2020.11.17-01.35.47:996][183]LogOnline: Warning: OSS: EOSSDK-LogEOS: Error response received from backend. ServiceName=[StatsAchievements], OperationName=[IsFeatureAchievementsEnabled], Url=[<Redacted>], HttpStatus=[403], ErrorCode=[errors.com.epicgames.common.missing_feature], NumericErrorCode=[UNSET], ErrorMessage=[E:Achievements,A:Connect,Ecom,Matchmaking,Metrics], CorrId=[EOS-4-CUtg48akq7zY-Y1LuVRQ-UqdDb9f5DUOkAv7i6n1fyg-FnMs4pbBPka9iDRdAdjV7Q]
+[2020.11.17-01.35.48:011][184]LogOnline: Warning: OSS: EOSSDK-LogEOSAchievements: Failed to get achievements definitions. Error=EOS_Missing_Feature
+[2020.11.17-01.35.50:111][310]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.11.17-01.35.58:896][837]LogOnlineSession: OSS: EOS_SessionModification_SetHostAddress(EOS.000262b5b86747688be2b6f151187c9700000000000000000000000000000000:7777) returned (EOS_Success)
+[2020.11.17-01.35.58:896][837]LogOnlineSession: OSS: EOS-OSS: Sessions Settings: public connections: 0, allow join via presence: 1
+[2020.11.17-01.35.58:896][837]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_SetPermissionLevel() set to (1)
+[2020.11.17-01.35.58:896][837]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_SetJoinInProgressAllowed() set to (1)
+[2020.11.17-01.35.58:896][837]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (NumPrivateConnections) with value (4)
+[2020.11.17-01.35.58:897][837]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (NumPublicConnections) with value (0)
+[2020.11.17-01.35.58:897][837]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (OwningPlayerName) with value (Collbrotherz)
+[2020.11.17-01.35.58:897][837]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (OwningNetId) with value (EOS::bf32c28149ea4a7daeb8ea2058d0ab85|000262b5b86747688be2b6f151187c97)
+[2020.11.17-01.35.58:897][837]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (bAntiCheatProtected) with value ()
+[2020.11.17-01.35.58:897][837]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (bUsesStats) with value ()
+[2020.11.17-01.35.58:897][837]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (bIsDedicated) with value ()
+[2020.11.17-01.35.58:897][837]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (BuildUniqueId) with value (5660361)
+[2020.11.17-01.35.58:897][837]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (OwningProductID) with value (000262b5b86747688be2b6f151187c97)
+[2020.11.17-01.35.58:897][837]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_HostId) with value (bf32c28149ea4a7daeb8ea2058d0ab85|000262b5b86747688be2b6f151187c97)
+[2020.11.17-01.35.58:897][837]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_NumConnectedPlayers) with value (1)
+[2020.11.17-01.35.58:897][837]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_PlayDuration) with value (0)
+[2020.11.17-01.35.58:897][837]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_BuildVersion) with value (++FactoryGame+main-CL-136408)
+[2020.11.17-01.35.58:897][837]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_SaveSessionName) with value (Field)
+[2020.11.17-01.35.58:897][837]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_CSS_SessionId) with value (_STARTUP_bf32c28149ea4a7daeb8ea)
+[2020.11.17-01.35.58:897][837]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_natType) with value (CNT_Moderate)
+[2020.11.17-01.35.59:111][850]LogOnline: Warning: OSS: EOSSDK-LogEOSSessions: Invites Allowed was enabled on a session which is not the presence session.  Only the presence session will advertise that invites are allowed.
+[2020.11.17-01.35.59:127][851]LogOnlineSession: Warning: OSS: EOS_SessionModification_SetHostAddress(EOS.000262b5b86747688be2b6f151187c976c6be96069f5424fad2df290f0b43771:7777) returned (EOS_Success)
+[2020.11.17-01.35.59:127][851]LogOnlineSession: OSS: EOS-OSS: Sessions Settings: public connections: 0, allow join via presence: 1
+[2020.11.17-01.35.59:127][851]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_SetPermissionLevel() set to (1)
+[2020.11.17-01.35.59:127][851]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_SetJoinInProgressAllowed() set to (1)
+[2020.11.17-01.35.59:127][851]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (NumPrivateConnections) with value (4)
+[2020.11.17-01.35.59:128][851]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (NumPublicConnections) with value (0)
+[2020.11.17-01.35.59:128][851]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (OwningPlayerName) with value (Collbrotherz)
+[2020.11.17-01.35.59:128][851]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (OwningNetId) with value (EOS::bf32c28149ea4a7daeb8ea2058d0ab85|000262b5b86747688be2b6f151187c97)
+[2020.11.17-01.35.59:128][851]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (bAntiCheatProtected) with value ()
+[2020.11.17-01.35.59:128][851]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (bUsesStats) with value ()
+[2020.11.17-01.35.59:128][851]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (bIsDedicated) with value ()
+[2020.11.17-01.35.59:128][851]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (BuildUniqueId) with value (5660361)
+[2020.11.17-01.35.59:128][851]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (OwningProductID) with value (000262b5b86747688be2b6f151187c97)
+[2020.11.17-01.35.59:128][851]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_HostId) with value (bf32c28149ea4a7daeb8ea2058d0ab85|000262b5b86747688be2b6f151187c97)
+[2020.11.17-01.35.59:128][851]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_NumConnectedPlayers) with value (1)
+[2020.11.17-01.35.59:128][851]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_PlayDuration) with value (0)
+[2020.11.17-01.35.59:128][851]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_BuildVersion) with value (++FactoryGame+main-CL-136408)
+[2020.11.17-01.35.59:128][851]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_SaveSessionName) with value (Field)
+[2020.11.17-01.35.59:128][851]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_CSS_SessionId) with value (_STARTUP_bf32c28149ea4a7daeb8ea)
+[2020.11.17-01.35.59:128][851]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_natType) with value (CNT_Moderate)
+[2020.11.17-01.35.59:129][851]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2020.11.17-01.35.59:129][851]LogGameState: Match State Changed from InProgress to LeavingMap
+[2020.11.17-01.35.59:129][851]LogNet: Browse: /Game/FactoryGame/Map/GameLevel01/Persistent_Level??startloc=Grass Fields?sessionName=Field?Visibility=SV_FriendsOnly?loadgame=Field_autosave_1?listen
+[2020.11.17-01.35.59:145][851]LogLoad: LoadMap: /Game/FactoryGame/Map/GameLevel01/Persistent_Level??startloc=Grass Fields?sessionName=Field?Visibility=SV_FriendsOnly?loadgame=Field_autosave_1?listen
+[2020.11.17-01.35.59:148][851]LogOnlineSession: OSS: EOS-OSS: Sessions Settings: public connections: 0, allow join via presence: 1
+[2020.11.17-01.35.59:148][851]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_SetPermissionLevel() set to (1)
+[2020.11.17-01.35.59:148][851]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_SetJoinInProgressAllowed() set to (1)
+[2020.11.17-01.35.59:148][851]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (NumPrivateConnections) with value (4)
+[2020.11.17-01.35.59:148][851]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (NumPublicConnections) with value (0)
+[2020.11.17-01.35.59:148][851]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (OwningPlayerName) with value (Collbrotherz)
+[2020.11.17-01.35.59:148][851]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (OwningNetId) with value (EOS::bf32c28149ea4a7daeb8ea2058d0ab85|000262b5b86747688be2b6f151187c97)
+[2020.11.17-01.35.59:148][851]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (bAntiCheatProtected) with value ()
+[2020.11.17-01.35.59:148][851]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (bUsesStats) with value ()
+[2020.11.17-01.35.59:148][851]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (bIsDedicated) with value ()
+[2020.11.17-01.35.59:148][851]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (BuildUniqueId) with value (5660361)
+[2020.11.17-01.35.59:148][851]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (OwningProductID) with value (000262b5b86747688be2b6f151187c97)
+[2020.11.17-01.35.59:148][851]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_HostId) with value (bf32c28149ea4a7daeb8ea2058d0ab85|000262b5b86747688be2b6f151187c97)
+[2020.11.17-01.35.59:148][851]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_NumConnectedPlayers) with value (0)
+[2020.11.17-01.35.59:148][851]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_PlayDuration) with value (0)
+[2020.11.17-01.35.59:148][851]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_BuildVersion) with value (++FactoryGame+main-CL-136408)
+[2020.11.17-01.35.59:148][851]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_SaveSessionName) with value (SESSION3446)
+[2020.11.17-01.35.59:148][851]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_CSS_SessionId) with value (_STARTUP_bf32c28149ea4a7daeb8ea)
+[2020.11.17-01.35.59:148][851]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_natType) with value (CNT_Moderate)
+[2020.11.17-01.35.59:225][851]LogUObjectHash: Compacting FUObjectHashTables data took   7.78ms
+[2020.11.17-01.35.59:230][851]LogStreaming: Display: Flushing async loaders.
+[2020.11.17-01.36.06:377][851]LogAIModule: Creating AISystem for world Persistent_Level
+[2020.11.17-01.36.06:390][851]LogLoad: Game class is 'BP_GameMode_C'
+[2020.11.17-01.36.06:436][851]PacketHandlerLog: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2020.11.17-01.36.06:456][851]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2020.11.17-01.36.06:460][851]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/FactoryGame/Map/GameLevel01/Persistent_Exploration) is flushing async loading
+[2020.11.17-01.36.10:759][851]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/FactoryGame/Map/GameLevel01/Persistent_Exploration_2) is flushing async loading
+[2020.11.17-01.36.12:486][851]LogWorld: Bringing World /Game/FactoryGame/Map/GameLevel01/Persistent_Level.Persistent_Level up for play (max tick rate 0) at 2020.11.17-02.36.12
+[2020.11.17-01.36.22:593][851]LogGame: Read Raw Data: 0.002 seconds
+[2020.11.17-01.36.22:606][851]LogGame: Decompression: 0.011 seconds
+[2020.11.17-01.36.22:640][851]LogReplicationGraph: Warning: Spatialization Rebuild caused by: /Game/FactoryGame/Map/GameLevel01/Persistent_Level.Persistent_Level:PersistentLevel.Build_WorkBenchIntegrated_C_0 at X=-31145.381 Y=238476.000 Z=-1985.454. New Bias: X=-56145.383 Y=-15000.000. IsStatic: 1
+[2020.11.17-01.36.22:962][851]LogNet: Display: Char_Player_C_0 ClassRepPolicy = 6
+[2020.11.17-01.36.23:086][851]LogSave: Warning: ========= Load error summary =========
+[2020.11.17-01.36.23:086][851]LogSave: Warning: Found 0 Unknown Classes, 0 Unknown Levels and 3 Unknown Objects
+[2020.11.17-01.36.23:086][851]LogSave: Warning: ========= Unknown Classes =========
+[2020.11.17-01.36.23:086][851]LogSave: Warning: ========= Unknown Levels =========
+[2020.11.17-01.36.23:086][851]LogSave: Warning: ========= Unknown Objects =========
+[2020.11.17-01.36.23:087][851]LogSave: Warning: Persistent_Level::Persistent_Level:PersistentLevel.BP_BuildGun_C_0
+[2020.11.17-01.36.23:087][851]LogSave: Warning: Persistent_Level::Persistent_Level:PersistentLevel.BP_ResourceScanner_C_0
+[2020.11.17-01.36.23:087][851]LogSave: Warning: Persistent_Level::Persistent_Level:PersistentLevel.Equip_ResourceMiner_C_0
+[2020.11.17-01.36.23:087][851]LogGame: World Serialization (load): 0.482 seconds
+[2020.11.17-01.36.23:087][851]LogOnline: Warning: OSS: SetSessionID called: Fieldbf32c2811114454#VBA
+[2020.11.17-01.36.23:256][851]LogNet: Display: Char_Player_C_0 ClassRepPolicy = 6
+[2020.11.17-01.36.23:256][851]LogWorld: Bringing up level for play took: 10.830235
+[2020.11.17-01.36.23:257][851]LogNavigation: Error: Navmesh bounds are too large! Limiting requested tiles count (1481952) to: (1048576)
+[2020.11.17-01.36.23:460][851]LogOnline: Warning: STEAM: Steamworks: SteamAPI_Init failed with app ID: 526870, type: Non Steam EXE
+[2020.11.17-01.36.23:460][851]LogOnline: Warning: STEAM: Steamworks: SteamUtils() failed!
+[2020.11.17-01.36.23:460][851]LogOnline: Warning: STEAM: Steamworks: SteamUser() failed!
+[2020.11.17-01.36.23:460][851]LogOnline: Warning: STEAM: Steamworks: SteamFriends() failed!
+[2020.11.17-01.36.23:460][851]LogOnline: Warning: STEAM: Steamworks: SteamRemoteStorage() failed!
+[2020.11.17-01.36.23:460][851]LogOnline: Warning: STEAM: Steamworks: SteamUserStats() failed!
+[2020.11.17-01.36.23:460][851]LogOnline: Warning: STEAM: Steamworks: SteamMatchmakingServers() failed!
+[2020.11.17-01.36.23:460][851]LogOnline: Warning: STEAM: Steamworks: SteamApps() failed!
+[2020.11.17-01.36.23:460][851]LogOnline: Warning: STEAM: Steamworks: SteamNetworking() failed!
+[2020.11.17-01.36.23:460][851]LogOnline: Warning: STEAM: Steamworks: SteamMatchmaking() failed!
+[2020.11.17-01.36.23:460][851]LogOnline: STEAM: [AppId: 0] Client API initialized 0
+[2020.11.17-01.36.23:460][851]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2020.11.17-01.36.23:460][851]LogOnline: Warning: STEAM: Steam API failed to initialize!
+[2020.11.17-01.36.23:460][851]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2020.11.17-01.36.23:495][851]LogOnlineSession: OSS: EOS-OSS: Sessions Settings: public connections: 0, allow join via presence: 1
+[2020.11.17-01.36.23:495][851]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_SetPermissionLevel() set to (1)
+[2020.11.17-01.36.23:495][851]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_SetJoinInProgressAllowed() set to (1)
+[2020.11.17-01.36.23:495][851]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (NumPrivateConnections) with value (4)
+[2020.11.17-01.36.23:495][851]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (NumPublicConnections) with value (0)
+[2020.11.17-01.36.23:495][851]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (OwningPlayerName) with value (Collbrotherz)
+[2020.11.17-01.36.23:495][851]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (OwningNetId) with value (EOS::bf32c28149ea4a7daeb8ea2058d0ab85|000262b5b86747688be2b6f151187c97)
+[2020.11.17-01.36.23:495][851]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (bAntiCheatProtected) with value ()
+[2020.11.17-01.36.23:495][851]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (bUsesStats) with value ()
+[2020.11.17-01.36.23:495][851]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (bIsDedicated) with value ()
+[2020.11.17-01.36.23:495][851]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (BuildUniqueId) with value (5660361)
+[2020.11.17-01.36.23:495][851]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (OwningProductID) with value (000262b5b86747688be2b6f151187c97)
+[2020.11.17-01.36.23:495][851]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_HostId) with value (bf32c28149ea4a7daeb8ea2058d0ab85|000262b5b86747688be2b6f151187c97)
+[2020.11.17-01.36.23:495][851]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_NumConnectedPlayers) with value (1)
+[2020.11.17-01.36.23:495][851]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_PlayDuration) with value (13454)
+[2020.11.17-01.36.23:495][851]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_BuildVersion) with value (++FactoryGame+main-CL-136408)
+[2020.11.17-01.36.23:495][851]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_SaveSessionName) with value (Field)
+[2020.11.17-01.36.23:495][851]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_CSS_SessionId) with value (_STARTUP_bf32c28149ea4a7daeb8ea)
+[2020.11.17-01.36.23:495][851]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_natType) with value (CNT_Moderate)
+[2020.11.17-01.36.23:495][851]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.11.17-01.36.23:495][851]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.11.17-01.36.25:439][851]LogMaterial: Can't compile master_foliage with cooked content, will use default material instead
+[2020.11.17-01.36.25:439][851]LogMaterial: Warning: /Game/ProceduralNaturePack/Materials/master_foliage.master_foliage: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.17-01.36.25:481][851]LogMaterial: Can't compile master_foliage with cooked content, will use default material instead
+[2020.11.17-01.36.25:481][851]LogMaterial: Warning: /Game/ProceduralNaturePack/Materials/leaves/leaves_fern.leaves_fern: Failed to compile Material Instance with Base master_foliage for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.17-01.36.28:649][851]LogMaterial: Can't compile master_foliage with cooked content, will use default material instead
+[2020.11.17-01.36.28:649][851]LogMaterial: Warning: /Game/ProceduralNaturePack/Materials/leaves/leaves_banana.leaves_banana: Failed to compile Material Instance with Base master_foliage for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.17-01.36.28:656][851]LogMaterial: Can't compile master_rocks_small with cooked content, will use default material instead
+[2020.11.17-01.36.28:656][851]LogMaterial: Warning: /Game/ProceduralNaturePack/Materials/rocks/rocks_small_a2.rocks_small_a2: Failed to compile Material Instance with Base master_rocks_small for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.17-01.36.28:658][851]LogMaterial: Can't compile master_rocks_small with cooked content, will use default material instead
+[2020.11.17-01.36.28:658][851]LogMaterial: Warning: /Game/ProceduralNaturePack/Materials/rocks/rocks_small_c_vertical_moss.rocks_small_c_vertical_moss: Failed to compile Material Instance with Base master_rocks_small for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.17-01.36.28:659][851]LogMaterial: Can't compile master_rocks_small with cooked content, will use default material instead
+[2020.11.17-01.36.28:659][851]LogMaterial: Warning: /Game/ProceduralNaturePack/Materials/rocks/rocks_small_b.rocks_small_b: Failed to compile Material Instance with Base master_rocks_small for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.17-01.36.28:660][851]LogMaterial: Can't compile master_rocks_small with cooked content, will use default material instead
+[2020.11.17-01.36.28:660][851]LogMaterial: Warning: /Game/ProceduralNaturePack/Materials/rocks/rocks_small_e.rocks_small_e: Failed to compile Material Instance with Base master_rocks_small for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.17-01.36.28:661][851]LogMaterial: Can't compile master_rocks_small with cooked content, will use default material instead
+[2020.11.17-01.36.28:661][851]LogMaterial: Warning: /Game/ProceduralNaturePack/Materials/rocks/rocks_small_a.rocks_small_a: Failed to compile Material Instance with Base master_rocks_small for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.17-01.36.28:662][851]LogMaterial: Can't compile master_rocks_small with cooked content, will use default material instead
+[2020.11.17-01.36.28:662][851]LogMaterial: Warning: /Game/ProceduralNaturePack/Materials/rocks/rocks_small_c.rocks_small_c: Failed to compile Material Instance with Base master_rocks_small for platform PCD3D_SM5, Default Material will be used in game.
+[2020.11.17-01.36.35:689][851]LogMaterial: Warning: Material /Game/FactoryGame/Resource/RawResources/Material/MM_ResourceNode.MM_ResourceNode missing bUsedWithInstancedStaticMeshes=True! Default Material will be used in game.
+[2020.11.17-01.36.35:699][851]LogMaterial: Warning:      The material will recompile every editor launch until resaved.
+[2020.11.17-01.36.36:830][851]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.11.17-01.36.36:963][851]LogOnlineSession: OSS: EOS-OSS: Sessions Settings: public connections: 0, allow join via presence: 1
+[2020.11.17-01.36.36:963][851]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_SetPermissionLevel() set to (1)
+[2020.11.17-01.36.36:964][851]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_SetJoinInProgressAllowed() set to (1)
+[2020.11.17-01.36.36:964][851]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (NumPrivateConnections) with value (4)
+[2020.11.17-01.36.36:970][851]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (NumPublicConnections) with value (0)
+[2020.11.17-01.36.36:971][851]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (OwningPlayerName) with value (Collbrotherz)
+[2020.11.17-01.36.36:972][851]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (OwningNetId) with value (EOS::bf32c28149ea4a7daeb8ea2058d0ab85|000262b5b86747688be2b6f151187c97)
+[2020.11.17-01.36.36:972][851]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (bAntiCheatProtected) with value ()
+[2020.11.17-01.36.36:972][851]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (bUsesStats) with value ()
+[2020.11.17-01.36.36:972][851]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (bIsDedicated) with value ()
+[2020.11.17-01.36.36:972][851]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (BuildUniqueId) with value (5660361)
+[2020.11.17-01.36.36:975][851]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (OwningProductID) with value (000262b5b86747688be2b6f151187c97)
+[2020.11.17-01.36.36:975][851]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_HostId) with value (bf32c28149ea4a7daeb8ea2058d0ab85|000262b5b86747688be2b6f151187c97)
+[2020.11.17-01.36.36:975][851]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_NumConnectedPlayers) with value (1)
+[2020.11.17-01.36.36:975][851]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_PlayDuration) with value (13454)
+[2020.11.17-01.36.36:975][851]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_BuildVersion) with value (++FactoryGame+main-CL-136408)
+[2020.11.17-01.36.36:975][851]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_SaveSessionName) with value (Field)
+[2020.11.17-01.36.36:975][851]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_CSS_SessionId) with value (_STARTUP_bf32c28149ea4a7daeb8ea)
+[2020.11.17-01.36.36:975][851]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_natType) with value (CNT_Moderate)
+[2020.11.17-01.36.37:247][851]LogFactory: Warning: Put down failed because we where never equipped.
+[2020.11.17-01.36.37:248][851]LogFactory: Warning: Put down failed because we where never equipped.
+[2020.11.17-01.36.37:411][851]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/FactoryGame/Buildable/-Shared/Particle/NewBuildingPing.NewBuildingPing_C'
+[2020.11.17-01.36.38:433][851]LogTemp: Warning: Num connection components found: 1
+[2020.11.17-01.36.38:433][851]LogTemp: Warning: Num connection components found: 1
+[2020.11.17-01.36.38:434][851]LogTemp: Warning: Num connection components found: 1
+[2020.11.17-01.36.38:434][851]LogTemp: Warning: Num connection components found: 1
+[2020.11.17-01.36.38:434][851]LogTemp: Warning: Num connection components found: 1
+[2020.11.17-01.36.38:434][851]LogTemp: Warning: Num connection components found: 1
+[2020.11.17-01.36.38:435][851]LogTemp: Warning: Num connection components found: 1
+[2020.11.17-01.36.38:435][851]LogTemp: Warning: Num connection components found: 1
+[2020.11.17-01.36.38:435][851]LogTemp: Warning: Num connection components found: 1
+[2020.11.17-01.36.38:436][851]LogTemp: Warning: Num connection components found: 1
+[2020.11.17-01.36.38:436][851]LogTemp: Warning: Num connection components found: 1
+[2020.11.17-01.36.38:609][851]PIE: Warning: AttachTo: '/Game/FactoryGame/Map/GameLevel01/Persistent_Level.Persistent_Level:PersistentLevel.Actor_0.FGProductionIndicatorInstanceManager_0' is not static , cannot attach '/Game/FactoryGame/Map/GameLevel01/Persistent_Level.Persistent_Level:PersistentLevel.Actor_0.HierarchicalInstancedStaticMeshComponent_108' which is static to it. Aborting.
+[2020.11.17-01.36.38:610][851]PIE: Warning: AttachTo: '/Game/FactoryGame/Map/GameLevel01/Persistent_Level.Persistent_Level:PersistentLevel.Actor_0.FGProductionIndicatorInstanceManager_0' is not static , cannot attach '/Game/FactoryGame/Map/GameLevel01/Persistent_Level.Persistent_Level:PersistentLevel.Actor_0.HierarchicalInstancedStaticMeshComponent_109' which is static to it. Aborting.
+[2020.11.17-01.36.38:610][851]PIE: Warning: AttachTo: '/Game/FactoryGame/Map/GameLevel01/Persistent_Level.Persistent_Level:PersistentLevel.Actor_0.FGProductionIndicatorInstanceManager_0' is not static , cannot attach '/Game/FactoryGame/Map/GameLevel01/Persistent_Level.Persistent_Level:PersistentLevel.Actor_0.HierarchicalInstancedStaticMeshComponent_110' which is static to it. Aborting.
+[2020.11.17-01.36.38:610][851]PIE: Warning: AttachTo: '/Game/FactoryGame/Map/GameLevel01/Persistent_Level.Persistent_Level:PersistentLevel.Actor_0.FGProductionIndicatorInstanceManager_0' is not static , cannot attach '/Game/FactoryGame/Map/GameLevel01/Persistent_Level.Persistent_Level:PersistentLevel.Actor_0.HierarchicalInstancedStaticMeshComponent_111' which is static to it. Aborting.
+[2020.11.17-01.36.38:610][851]PIE: Warning: AttachTo: '/Game/FactoryGame/Map/GameLevel01/Persistent_Level.Persistent_Level:PersistentLevel.Actor_0.FGProductionIndicatorInstanceManager_0' is not static , cannot attach '/Game/FactoryGame/Map/GameLevel01/Persistent_Level.Persistent_Level:PersistentLevel.Actor_0.HierarchicalInstancedStaticMeshComponent_112' which is static to it. Aborting.
+[2020.11.17-01.36.40:151][851]LogEquipment: Warning: ArmSlot::SetOverrideEquipment, called twice with same equipment 'nullpeter'.
+[2020.11.17-01.36.40:385][851]LogGame: Player Presence String: Tier 2: Nighttime base building in somewhere.
+[2020.11.17-01.36.40:451][851]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.11.17-01.36.40:712][851]LogLoad: Took 41.566876 seconds to LoadMap(/Game/FactoryGame/Map/GameLevel01/Persistent_Level)
+[2020.11.17-01.36.40:735][851]LogNet: UNetDriver::TickDispatch: Very long time between ticks. DeltaTime: 0.02, Realtime: 34.32. EOSNetDriver_0
+[2020.11.17-01.36.40:846][851]LogOnline: OSS: ModifyAndTestSessionID: Fieldbf32c2811114454#VBA
+[2020.11.17-01.36.41:032][851]LogOnlineSession: OSS: EOS-OSS: FindSessions
+[2020.11.17-01.36.42:693][851]LogStaticMesh: Allocated 512x512x417 distance field atlas = 104.3Mb, with 776 objects containing 40.8Mb backing data
+[2020.11.17-01.36.42:708][851]LogRenderer: Warning: Bokeh DOF algorithm is deprecated and will be removed. Consider using the Circle DOF method in post process settings.
+[2020.11.17-01.36.42:708][851]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.11.17-01.36.43:825][852]LogNet: UNetDriver::TickDispatch: Very long time between ticks. DeltaTime: 44.65, Realtime: 3.09. EOSNetDriver_0
+[2020.11.17-01.36.44:315][852]LogSlate: Took 0.026908 seconds to synchronously load lazily loaded font '../../../Engine/Content/EngineFonts/Faces/RobotoLight.ufont' (167K)
+[2020.11.17-01.36.44:489][854]LogOnline: Warning: OSS: ModifyAndTestSessionID: Success: Fieldbf32c2811114454#VBA
+[2020.11.17-01.36.44:491][854]LogOnlineSession: OSS: EOS-OSS: Sessions Settings: public connections: 4, allow join via presence: 1
+[2020.11.17-01.36.44:491][854]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_SetPermissionLevel() set to (0)
+[2020.11.17-01.36.44:491][854]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_SetJoinInProgressAllowed() set to (1)
+[2020.11.17-01.36.44:491][854]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (NumPrivateConnections) with value (0)
+[2020.11.17-01.36.44:491][854]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (NumPublicConnections) with value (4)
+[2020.11.17-01.36.44:491][854]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (OwningPlayerName) with value (Collbrotherz)
+[2020.11.17-01.36.44:491][854]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (OwningNetId) with value (EOS::bf32c28149ea4a7daeb8ea2058d0ab85|000262b5b86747688be2b6f151187c97)
+[2020.11.17-01.36.44:491][854]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (bAntiCheatProtected) with value ()
+[2020.11.17-01.36.44:491][854]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (bUsesStats) with value ()
+[2020.11.17-01.36.44:491][854]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (bIsDedicated) with value ()
+[2020.11.17-01.36.44:491][854]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (BuildUniqueId) with value (5660361)
+[2020.11.17-01.36.44:491][854]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (OwningProductID) with value (000262b5b86747688be2b6f151187c97)
+[2020.11.17-01.36.44:491][854]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_HostId) with value (bf32c28149ea4a7daeb8ea2058d0ab85|000262b5b86747688be2b6f151187c97)
+[2020.11.17-01.36.44:491][854]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_NumConnectedPlayers) with value (1)
+[2020.11.17-01.36.44:491][854]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_PlayDuration) with value (13454)
+[2020.11.17-01.36.44:491][854]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_BuildVersion) with value (++FactoryGame+main-CL-136408)
+[2020.11.17-01.36.44:491][854]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_SaveSessionName) with value (Field)
+[2020.11.17-01.36.44:491][854]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_CSS_SessionId) with value (Fieldbf32c2811114454#VBA)
+[2020.11.17-01.36.44:491][854]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_natType) with value (CNT_Moderate)
+[2020.11.17-01.36.44:497][854]LogOnline: Warning: OSS: EOSSDK-LogEOSSessions: Backend in progress state out of sync with client
+[2020.11.17-01.36.44:497][854]LogOnline: Warning: OSS: EOSSDK-LogEOSSessions: Backend PermissionLevelout of sync with client
+[2020.11.17-01.36.44:498][854]LogOnline: Warning: OSS: EOSSDK-LogEOSSessions: Invites Allowed was enabled on a session which is not the presence session.  Only the presence session will advertise that invites are allowed.
+[2020.11.17-01.36.44:498][854]LogOnlineIdentity: OSS: Presence update notification
+[2020.11.17-01.36.44:498][854]LogOnlineIdentity: OSS: The presence udpate was for an unmapeed user... 
+[2020.11.17-01.36.44:575][855]LogOnlineSession: Warning: OSS: EOS-OSS: EOS_Sessions_UpdateSession() with real host address attempt returned with: EOS_Success
+[2020.11.17-01.36.44:590][856]LogOnlineIdentity: OSS: Presence update notification
+[2020.11.17-01.36.44:590][856]LogOnlineIdentity: OSS: The presence udpate was for an unmapeed user... 
+[2020.11.17-01.36.44:831][859]LogNet: New Dynamic NetSpeed 20000 vs old 20000
+[2020.11.17-01.36.44:906][861]LogOnline: Warning: OSS: EOSSDK-LogEOSSessions: Backend in progress state out of sync with client
+[2020.11.17-01.36.44:906][861]LogOnline: Warning: OSS: EOSSDK-LogEOSSessions: Backend PermissionLevelout of sync with client
+[2020.11.17-01.36.44:907][861]LogOnline: Warning: OSS: EOSSDK-LogEOSSessions: Invites Allowed was enabled on a session which is not the presence session.  Only the presence session will advertise that invites are allowed.
+[2020.11.17-01.36.45:455][862]LogOnline: Warning: STEAM: Steamworks: SteamAPI_Init failed with app ID: 526870, type: Non Steam EXE
+[2020.11.17-01.36.45:455][862]LogOnline: Warning: STEAM: Steamworks: SteamUtils() failed!
+[2020.11.17-01.36.45:455][862]LogOnline: Warning: STEAM: Steamworks: SteamUser() failed!
+[2020.11.17-01.36.45:455][862]LogOnline: Warning: STEAM: Steamworks: SteamFriends() failed!
+[2020.11.17-01.36.45:455][862]LogOnline: Warning: STEAM: Steamworks: SteamRemoteStorage() failed!
+[2020.11.17-01.36.45:455][862]LogOnline: Warning: STEAM: Steamworks: SteamUserStats() failed!
+[2020.11.17-01.36.45:455][862]LogOnline: Warning: STEAM: Steamworks: SteamMatchmakingServers() failed!
+[2020.11.17-01.36.45:455][862]LogOnline: Warning: STEAM: Steamworks: SteamApps() failed!
+[2020.11.17-01.36.45:455][862]LogOnline: Warning: STEAM: Steamworks: SteamNetworking() failed!
+[2020.11.17-01.36.45:455][862]LogOnline: Warning: STEAM: Steamworks: SteamMatchmaking() failed!
+[2020.11.17-01.36.45:455][862]LogOnline: STEAM: [AppId: 0] Client API initialized 0
+[2020.11.17-01.36.45:455][862]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2020.11.17-01.36.45:455][862]LogOnline: Warning: STEAM: Steam API failed to initialize!
+[2020.11.17-01.36.45:455][862]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2020.11.17-01.36.45:608][863]LogOnline: Warning: OSS: EOSSDK-LogEOSSessions: Backend in progress state out of sync with client
+[2020.11.17-01.36.45:608][863]LogOnline: Warning: OSS: EOSSDK-LogEOSSessions: Backend PermissionLevelout of sync with client
+[2020.11.17-01.36.45:608][863]LogOnline: Warning: OSS: EOSSDK-LogEOSSessions: Invites Allowed was enabled on a session which is not the presence session.  Only the presence session will advertise that invites are allowed.
+[2020.11.17-01.36.45:714][864]LogOnline: Warning: STEAM: Steamworks: SteamAPI_Init failed with app ID: 526870, type: Non Steam EXE
+[2020.11.17-01.36.45:714][864]LogOnline: Warning: STEAM: Steamworks: SteamUtils() failed!
+[2020.11.17-01.36.45:714][864]LogOnline: Warning: STEAM: Steamworks: SteamUser() failed!
+[2020.11.17-01.36.45:714][864]LogOnline: Warning: STEAM: Steamworks: SteamFriends() failed!
+[2020.11.17-01.36.45:714][864]LogOnline: Warning: STEAM: Steamworks: SteamRemoteStorage() failed!
+[2020.11.17-01.36.45:714][864]LogOnline: Warning: STEAM: Steamworks: SteamUserStats() failed!
+[2020.11.17-01.36.45:714][864]LogOnline: Warning: STEAM: Steamworks: SteamMatchmakingServers() failed!
+[2020.11.17-01.36.45:714][864]LogOnline: Warning: STEAM: Steamworks: SteamApps() failed!
+[2020.11.17-01.36.45:714][864]LogOnline: Warning: STEAM: Steamworks: SteamNetworking() failed!
+[2020.11.17-01.36.45:714][864]LogOnline: Warning: STEAM: Steamworks: SteamMatchmaking() failed!
+[2020.11.17-01.36.45:714][864]LogOnline: STEAM: [AppId: 0] Client API initialized 0
+[2020.11.17-01.36.45:714][864]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2020.11.17-01.36.45:714][864]LogOnline: Warning: STEAM: Steam API failed to initialize!
+[2020.11.17-01.36.45:714][864]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2020.11.17-01.36.45:755][864]LogGame: Player Presence String: Tier 2: Nighttime base building in somewhere.
+[2020.11.17-01.36.45:984][868]LogOnlineSession: OSS: EOS-OSS: Sessions Settings: public connections: 4, allow join via presence: 1
+[2020.11.17-01.36.45:984][868]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_SetPermissionLevel() set to (0)
+[2020.11.17-01.36.45:984][868]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_SetJoinInProgressAllowed() set to (1)
+[2020.11.17-01.36.45:984][868]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (NumPrivateConnections) with value (0)
+[2020.11.17-01.36.45:984][868]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (NumPublicConnections) with value (4)
+[2020.11.17-01.36.45:984][868]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (OwningPlayerName) with value (Collbrotherz)
+[2020.11.17-01.36.45:984][868]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (OwningNetId) with value (EOS::bf32c28149ea4a7daeb8ea2058d0ab85|000262b5b86747688be2b6f151187c97)
+[2020.11.17-01.36.45:984][868]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (bAntiCheatProtected) with value ()
+[2020.11.17-01.36.45:984][868]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (bUsesStats) with value ()
+[2020.11.17-01.36.45:984][868]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (bIsDedicated) with value ()
+[2020.11.17-01.36.45:984][868]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (BuildUniqueId) with value (5660361)
+[2020.11.17-01.36.45:984][868]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (OwningProductID) with value (000262b5b86747688be2b6f151187c97)
+[2020.11.17-01.36.45:984][868]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_HostId) with value (bf32c28149ea4a7daeb8ea2058d0ab85|000262b5b86747688be2b6f151187c97)
+[2020.11.17-01.36.45:984][868]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_NumConnectedPlayers) with value (1)
+[2020.11.17-01.36.45:984][868]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_PlayDuration) with value (13456)
+[2020.11.17-01.36.45:984][868]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_BuildVersion) with value (++FactoryGame+main-CL-136408)
+[2020.11.17-01.36.45:984][868]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_SaveSessionName) with value (Field)
+[2020.11.17-01.36.45:984][868]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_CSS_SessionId) with value (Fieldbf32c2811114454#VBA)
+[2020.11.17-01.36.45:984][868]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_natType) with value (CNT_Moderate)
+[2020.11.17-01.36.45:994][869]LogOnlineIdentity: OSS: Presence update notification
+[2020.11.17-01.36.45:994][869]LogOnlineIdentity: OSS: The presence udpate was for an unmapeed user... 
+[2020.11.17-01.36.46:165][875]LogOnline: Warning: OSS: EOSSDK-LogEOSSessions: Backend PermissionLevelout of sync with client
+[2020.11.17-01.36.46:165][875]LogOnline: Warning: OSS: EOSSDK-LogEOSSessions: Invites Allowed was enabled on a session which is not the presence session.  Only the presence session will advertise that invites are allowed.
+[2020.11.17-01.36.46:253][876]LogOnline: Warning: STEAM: Steamworks: SteamAPI_Init failed with app ID: 526870, type: Non Steam EXE
+[2020.11.17-01.36.46:253][876]LogOnline: Warning: STEAM: Steamworks: SteamUtils() failed!
+[2020.11.17-01.36.46:254][876]LogOnline: Warning: STEAM: Steamworks: SteamUser() failed!
+[2020.11.17-01.36.46:254][876]LogOnline: Warning: STEAM: Steamworks: SteamFriends() failed!
+[2020.11.17-01.36.46:254][876]LogOnline: Warning: STEAM: Steamworks: SteamRemoteStorage() failed!
+[2020.11.17-01.36.46:254][876]LogOnline: Warning: STEAM: Steamworks: SteamUserStats() failed!
+[2020.11.17-01.36.46:254][876]LogOnline: Warning: STEAM: Steamworks: SteamMatchmakingServers() failed!
+[2020.11.17-01.36.46:254][876]LogOnline: Warning: STEAM: Steamworks: SteamApps() failed!
+[2020.11.17-01.36.46:254][876]LogOnline: Warning: STEAM: Steamworks: SteamNetworking() failed!
+[2020.11.17-01.36.46:254][876]LogOnline: Warning: STEAM: Steamworks: SteamMatchmaking() failed!
+[2020.11.17-01.36.46:254][876]LogOnline: STEAM: [AppId: 0] Client API initialized 0
+[2020.11.17-01.36.46:254][876]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2020.11.17-01.36.46:254][876]LogOnline: Warning: STEAM: Steam API failed to initialize!
+[2020.11.17-01.36.46:254][876]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2020.11.17-01.36.46:571][882]LogOnline: Warning: OSS: EOSSDK-LogEOSSessions: Invites Allowed was enabled on a session which is not the presence session.  Only the presence session will advertise that invites are allowed.
+[2020.11.17-01.36.46:704][883]LogOnline: Warning: STEAM: Steamworks: SteamAPI_Init failed with app ID: 526870, type: Non Steam EXE
+[2020.11.17-01.36.46:704][883]LogOnline: Warning: STEAM: Steamworks: SteamUtils() failed!
+[2020.11.17-01.36.46:704][883]LogOnline: Warning: STEAM: Steamworks: SteamUser() failed!
+[2020.11.17-01.36.46:704][883]LogOnline: Warning: STEAM: Steamworks: SteamFriends() failed!
+[2020.11.17-01.36.46:705][883]LogOnline: Warning: STEAM: Steamworks: SteamRemoteStorage() failed!
+[2020.11.17-01.36.46:705][883]LogOnline: Warning: STEAM: Steamworks: SteamUserStats() failed!
+[2020.11.17-01.36.46:705][883]LogOnline: Warning: STEAM: Steamworks: SteamMatchmakingServers() failed!
+[2020.11.17-01.36.46:705][883]LogOnline: Warning: STEAM: Steamworks: SteamApps() failed!
+[2020.11.17-01.36.46:705][883]LogOnline: Warning: STEAM: Steamworks: SteamNetworking() failed!
+[2020.11.17-01.36.46:705][883]LogOnline: Warning: STEAM: Steamworks: SteamMatchmaking() failed!
+[2020.11.17-01.36.46:705][883]LogOnline: STEAM: [AppId: 0] Client API initialized 0
+[2020.11.17-01.36.46:705][883]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2020.11.17-01.36.46:705][883]LogOnline: Warning: STEAM: Steam API failed to initialize!
+[2020.11.17-01.36.46:705][883]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2020.11.17-01.36.46:994][889]LogOnline: Warning: OSS: EOSSDK-LogEOSSessions: Invites Allowed was enabled on a session which is not the presence session.  Only the presence session will advertise that invites are allowed.
+[2020.11.17-01.36.47:091][890]LogOnline: Warning: STEAM: Steamworks: SteamAPI_Init failed with app ID: 526870, type: Non Steam EXE
+[2020.11.17-01.36.47:091][890]LogOnline: Warning: STEAM: Steamworks: SteamUtils() failed!
+[2020.11.17-01.36.47:091][890]LogOnline: Warning: STEAM: Steamworks: SteamUser() failed!
+[2020.11.17-01.36.47:091][890]LogOnline: Warning: STEAM: Steamworks: SteamFriends() failed!
+[2020.11.17-01.36.47:091][890]LogOnline: Warning: STEAM: Steamworks: SteamRemoteStorage() failed!
+[2020.11.17-01.36.47:091][890]LogOnline: Warning: STEAM: Steamworks: SteamUserStats() failed!
+[2020.11.17-01.36.47:091][890]LogOnline: Warning: STEAM: Steamworks: SteamMatchmakingServers() failed!
+[2020.11.17-01.36.47:091][890]LogOnline: Warning: STEAM: Steamworks: SteamApps() failed!
+[2020.11.17-01.36.47:091][890]LogOnline: Warning: STEAM: Steamworks: SteamNetworking() failed!
+[2020.11.17-01.36.47:091][890]LogOnline: Warning: STEAM: Steamworks: SteamMatchmaking() failed!
+[2020.11.17-01.36.47:091][890]LogOnline: STEAM: [AppId: 0] Client API initialized 0
+[2020.11.17-01.36.47:091][890]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2020.11.17-01.36.47:091][890]LogOnline: Warning: STEAM: Steam API failed to initialize!
+[2020.11.17-01.36.47:091][890]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2020.11.17-01.36.55:811][301]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.11.17-01.36.59:413][504]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.11.17-01.36.59:464][505]LogGame: Warning: UFGRecipe::GetIngredients, class was nullpeter.
+[2020.11.17-01.36.59:464][505]LogGame: Warning: UFGRecipe::GetProducts, class was nullpeter.
+[2020.11.17-01.37.00:989][597]LogGame: Player Presence String: Tier 2: Nighttime base building in Grass Fields.
+[2020.11.17-01.37.01:180][609]LogOnlineIdentity: OSS: Presence update notification
+[2020.11.17-01.37.01:181][609]LogOnlineIdentity: OSS: The presence udpate was for an unmapeed user... 
+[2020.11.17-01.37.05:732][875]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.11.17-01.37.07:957][  3]LogSlate: Took 0.007587 seconds to synchronously load lazily loaded font '../../../Engine/Content/EngineFonts/Faces/RobotoBold.ufont' (160K)
+[2020.11.17-01.37.15:985][475]LogGame: Player Presence String: Tier 2: Nighttime base building in Grass Fields.
+[2020.11.17-01.37.16:181][487]LogOnlineIdentity: OSS: Presence update notification
+[2020.11.17-01.37.16:181][487]LogOnlineIdentity: OSS: The presence udpate was for an unmapeed user... 
+[2020.11.17-01.37.28:954][232]LogStreaming: Display: UWorld::AddToWorld: updating components for /Game/FactoryGame/Map/GameLevel01/Tile_X3_Y1 took (less than) 22.65 ms
+[2020.11.17-01.37.29:024][234]LogStreaming: Display: UWorld::AddToWorld: updating components for /Game/FactoryGame/Map/GameLevel01/Tile_X3_Y1 took (less than) 24.02 ms
+[2020.11.17-01.37.29:147][238]LogStreaming: Display: UWorld::AddToWorld: routing Initialize on actors for /Game/FactoryGame/Map/GameLevel01/Tile_X3_Y1 took (less than) 49.89 ms
+[2020.11.17-01.37.30:992][348]LogGame: Player Presence String: Tier 2: Nighttime base building in Grass Fields.
+[2020.11.17-01.37.31:197][361]LogOnlineIdentity: OSS: Presence update notification
+[2020.11.17-01.37.31:197][361]LogOnlineIdentity: OSS: The presence udpate was for an unmapeed user... 
+[2020.11.17-01.37.36:550][681]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.11.17-01.37.40:801][926]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.11.17-01.37.42:233][  9]LogStreaming: Display: Flushing async loaders.
+[2020.11.17-01.37.43:515][ 83]LogStreaming: Display: Flushing async loaders.
+[2020.11.17-01.37.43:887][104]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.11.17-01.37.45:996][228]LogGame: Player Presence String: Tier 2: Nighttime base building in Grass Fields.
+[2020.11.17-01.37.46:198][241]LogOnlineIdentity: OSS: Presence update notification
+[2020.11.17-01.37.46:198][241]LogOnlineIdentity: OSS: The presence udpate was for an unmapeed user... 
+[2020.11.17-01.37.46:251][244]LogOnlineSession: OSS: EOS-OSS: Sessions Settings: public connections: 4, allow join via presence: 1
+[2020.11.17-01.37.46:251][244]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_SetPermissionLevel() set to (0)
+[2020.11.17-01.37.46:251][244]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_SetJoinInProgressAllowed() set to (1)
+[2020.11.17-01.37.46:251][244]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (NumPrivateConnections) with value (0)
+[2020.11.17-01.37.46:251][244]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (NumPublicConnections) with value (4)
+[2020.11.17-01.37.46:251][244]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (OwningPlayerName) with value (Collbrotherz)
+[2020.11.17-01.37.46:251][244]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (OwningNetId) with value (EOS::bf32c28149ea4a7daeb8ea2058d0ab85|000262b5b86747688be2b6f151187c97)
+[2020.11.17-01.37.46:251][244]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (bAntiCheatProtected) with value ()
+[2020.11.17-01.37.46:251][244]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (bUsesStats) with value ()
+[2020.11.17-01.37.46:251][244]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (bIsDedicated) with value ()
+[2020.11.17-01.37.46:251][244]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (BuildUniqueId) with value (5660361)
+[2020.11.17-01.37.46:251][244]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (OwningProductID) with value (000262b5b86747688be2b6f151187c97)
+[2020.11.17-01.37.46:251][244]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_HostId) with value (bf32c28149ea4a7daeb8ea2058d0ab85|000262b5b86747688be2b6f151187c97)
+[2020.11.17-01.37.46:251][244]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_NumConnectedPlayers) with value (1)
+[2020.11.17-01.37.46:251][244]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_PlayDuration) with value (13516)
+[2020.11.17-01.37.46:251][244]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_BuildVersion) with value (++FactoryGame+main-CL-136408)
+[2020.11.17-01.37.46:251][244]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_SaveSessionName) with value (Field)
+[2020.11.17-01.37.46:251][244]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_CSS_SessionId) with value (Fieldbf32c2811114454#VBA)
+[2020.11.17-01.37.46:251][244]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_natType) with value (CNT_Moderate)
+[2020.11.17-01.37.46:431][255]LogOnline: Warning: OSS: EOSSDK-LogEOSSessions: Invites Allowed was enabled on a session which is not the presence session.  Only the presence session will advertise that invites are allowed.
+[2020.11.17-01.37.46:564][256]LogOnline: Warning: STEAM: Steamworks: SteamAPI_Init failed with app ID: 526870, type: Non Steam EXE
+[2020.11.17-01.37.46:564][256]LogOnline: Warning: STEAM: Steamworks: SteamUtils() failed!
+[2020.11.17-01.37.46:564][256]LogOnline: Warning: STEAM: Steamworks: SteamUser() failed!
+[2020.11.17-01.37.46:564][256]LogOnline: Warning: STEAM: Steamworks: SteamFriends() failed!
+[2020.11.17-01.37.46:564][256]LogOnline: Warning: STEAM: Steamworks: SteamRemoteStorage() failed!
+[2020.11.17-01.37.46:564][256]LogOnline: Warning: STEAM: Steamworks: SteamUserStats() failed!
+[2020.11.17-01.37.46:564][256]LogOnline: Warning: STEAM: Steamworks: SteamMatchmakingServers() failed!
+[2020.11.17-01.37.46:565][256]LogOnline: Warning: STEAM: Steamworks: SteamApps() failed!
+[2020.11.17-01.37.46:565][256]LogOnline: Warning: STEAM: Steamworks: SteamNetworking() failed!
+[2020.11.17-01.37.46:565][256]LogOnline: Warning: STEAM: Steamworks: SteamMatchmaking() failed!
+[2020.11.17-01.37.46:565][256]LogOnline: STEAM: [AppId: 0] Client API initialized 0
+[2020.11.17-01.37.46:565][256]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2020.11.17-01.37.46:565][256]LogOnline: Warning: STEAM: Steam API failed to initialize!
+[2020.11.17-01.37.46:565][256]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2020.11.17-01.37.47:649][322]LogStreaming: Display: Flushing async loaders.
+[2020.11.17-01.37.48:516][374]LogStreaming: Display: Flushing async loaders.
+[2020.11.17-01.37.50:068][466]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.11.17-01.37.52:749][628]LogStreaming: Display: Flushing async loaders.
+[2020.11.17-01.37.53:667][683]LogStreaming: Display: Flushing async loaders.
+[2020.11.17-01.37.54:071][706]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.11.17-01.37.56:316][842]LogStreaming: Display: Flushing async loaders.
+[2020.11.17-01.37.56:967][881]LogStreaming: Display: Flushing async loaders.
+[2020.11.17-01.38.00:988][121]LogGame: Player Presence String: Tier 2: Nighttime base building in Grass Fields.
+[2020.11.17-01.38.01:198][134]LogOnlineIdentity: OSS: Presence update notification
+[2020.11.17-01.38.01:198][134]LogOnlineIdentity: OSS: The presence udpate was for an unmapeed user... 
+[2020.11.17-01.38.15:989][ 16]LogGame: Player Presence String: Tier 2: Nighttime base building in Grass Fields.
+[2020.11.17-01.38.16:199][ 29]LogOnlineIdentity: OSS: Presence update notification
+[2020.11.17-01.38.16:199][ 29]LogOnlineIdentity: OSS: The presence udpate was for an unmapeed user... 
+[2020.11.17-01.38.30:987][913]LogGame: Player Presence String: Tier 2: Nighttime base building in Grass Fields.
+[2020.11.17-01.38.31:183][925]LogOnlineIdentity: OSS: Presence update notification
+[2020.11.17-01.38.31:183][925]LogOnlineIdentity: OSS: The presence udpate was for an unmapeed user... 
+[2020.11.17-01.38.45:988][813]LogGame: Player Presence String: Tier 2: Nighttime base building in Grass Fields.
+[2020.11.17-01.38.46:184][825]LogOnlineIdentity: OSS: Presence update notification
+[2020.11.17-01.38.46:184][825]LogOnlineIdentity: OSS: The presence udpate was for an unmapeed user... 
+[2020.11.17-01.38.46:252][829]LogOnlineSession: OSS: EOS-OSS: Sessions Settings: public connections: 4, allow join via presence: 1
+[2020.11.17-01.38.46:252][829]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_SetPermissionLevel() set to (0)
+[2020.11.17-01.38.46:252][829]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_SetJoinInProgressAllowed() set to (1)
+[2020.11.17-01.38.46:252][829]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (NumPrivateConnections) with value (0)
+[2020.11.17-01.38.46:252][829]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (NumPublicConnections) with value (4)
+[2020.11.17-01.38.46:252][829]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (OwningPlayerName) with value (Collbrotherz)
+[2020.11.17-01.38.46:252][829]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (OwningNetId) with value (EOS::bf32c28149ea4a7daeb8ea2058d0ab85|000262b5b86747688be2b6f151187c97)
+[2020.11.17-01.38.46:252][829]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (bAntiCheatProtected) with value ()
+[2020.11.17-01.38.46:252][829]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (bUsesStats) with value ()
+[2020.11.17-01.38.46:252][829]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (bIsDedicated) with value ()
+[2020.11.17-01.38.46:252][829]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (BuildUniqueId) with value (5660361)
+[2020.11.17-01.38.46:252][829]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (OwningProductID) with value (000262b5b86747688be2b6f151187c97)
+[2020.11.17-01.38.46:252][829]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_HostId) with value (bf32c28149ea4a7daeb8ea2058d0ab85|000262b5b86747688be2b6f151187c97)
+[2020.11.17-01.38.46:252][829]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_NumConnectedPlayers) with value (1)
+[2020.11.17-01.38.46:252][829]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_PlayDuration) with value (13576)
+[2020.11.17-01.38.46:252][829]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_BuildVersion) with value (++FactoryGame+main-CL-136408)
+[2020.11.17-01.38.46:252][829]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_SaveSessionName) with value (Field)
+[2020.11.17-01.38.46:252][829]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_CSS_SessionId) with value (Fieldbf32c2811114454#VBA)
+[2020.11.17-01.38.46:252][829]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_natType) with value (CNT_Moderate)
+[2020.11.17-01.38.46:450][841]LogOnline: Warning: OSS: EOSSDK-LogEOSSessions: Invites Allowed was enabled on a session which is not the presence session.  Only the presence session will advertise that invites are allowed.
+[2020.11.17-01.38.46:523][842]LogOnline: Warning: STEAM: Steamworks: SteamAPI_Init failed with app ID: 526870, type: Non Steam EXE
+[2020.11.17-01.38.46:523][842]LogOnline: Warning: STEAM: Steamworks: SteamUtils() failed!
+[2020.11.17-01.38.46:523][842]LogOnline: Warning: STEAM: Steamworks: SteamUser() failed!
+[2020.11.17-01.38.46:523][842]LogOnline: Warning: STEAM: Steamworks: SteamFriends() failed!
+[2020.11.17-01.38.46:523][842]LogOnline: Warning: STEAM: Steamworks: SteamRemoteStorage() failed!
+[2020.11.17-01.38.46:523][842]LogOnline: Warning: STEAM: Steamworks: SteamUserStats() failed!
+[2020.11.17-01.38.46:523][842]LogOnline: Warning: STEAM: Steamworks: SteamMatchmakingServers() failed!
+[2020.11.17-01.38.46:523][842]LogOnline: Warning: STEAM: Steamworks: SteamApps() failed!
+[2020.11.17-01.38.46:523][842]LogOnline: Warning: STEAM: Steamworks: SteamNetworking() failed!
+[2020.11.17-01.38.46:523][842]LogOnline: Warning: STEAM: Steamworks: SteamMatchmaking() failed!
+[2020.11.17-01.38.46:523][842]LogOnline: STEAM: [AppId: 0] Client API initialized 0
+[2020.11.17-01.38.46:523][842]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2020.11.17-01.38.46:523][842]LogOnline: Warning: STEAM: Steam API failed to initialize!
+[2020.11.17-01.38.46:523][842]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2020.11.17-01.38.54:722][334]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.11.17-01.39.00:991][711]LogGame: Player Presence String: Tier 2: Nighttime base building in Grass Fields.
+[2020.11.17-01.39.01:218][725]LogOnlineIdentity: OSS: Presence update notification
+[2020.11.17-01.39.01:218][725]LogOnlineIdentity: OSS: The presence udpate was for an unmapeed user... 
+[2020.11.17-01.39.04:006][891]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.11.17-01.39.04:019][892]LogGame: Warning: UFGRecipe::GetProducts, class was nullpeter.
+[2020.11.17-01.39.04:060][892]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'CallFunc_GetProducts_ReturnValue' of length 1 in '/Game/FactoryGame/Buildable/-Shared/Widgets/Widget_Manufacturing.Widget_Manufacturing_C:GetCylceProducedAndNameText'!
+[2020.11.17-01.39.09:588][223]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.11.17-01.39.10:635][286]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.11.17-01.39.15:990][607]LogGame: Player Presence String: Tier 2: Nighttime base building in Grass Fields.
+[2020.11.17-01.39.16:200][620]LogOnlineIdentity: OSS: Presence update notification
+[2020.11.17-01.39.16:201][620]LogOnlineIdentity: OSS: The presence udpate was for an unmapeed user... 
+[2020.11.17-01.39.30:989][507]LogGame: Player Presence String: Tier 2: Nighttime base building in Grass Fields.
+[2020.11.17-01.39.31:186][519]LogOnlineIdentity: OSS: Presence update notification
+[2020.11.17-01.39.31:186][519]LogOnlineIdentity: OSS: The presence udpate was for an unmapeed user... 
+[2020.11.17-01.39.34:209][692]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.11.17-01.39.35:738][785]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.11.17-01.39.36:611][835]Closing by request
+[2020.11.17-01.39.36:613][835]LogWindows: FPlatformMisc::RequestExit(0)
+[2020.11.17-01.39.36:749][836]LogNet: World NetDriver shutdown EOSNetDriver_0 [GameNetDriver]
+[2020.11.17-01.39.36:749][836]LogNet: DestroyNamedNetDriver EOSNetDriver_0 [GameNetDriver]
+[2020.11.17-01.39.36:790][836]LogSocketSubsystemEOS: Closing listening socket. SocketAddress=[EOS.000262b5b86747688be2b6f151187c976c6be96069f5424fad2df290f0b43771:7777]
+[2020.11.17-01.39.36:822][836]LogExit: GameNetDriver EOSNetDriver_0 shut down
+[2020.11.17-01.39.36:925][836]GameAnalyticsModule: Display: Loaded GUID 463FA96C-4F89-6A73-9830-D88746F5D15F
+[2020.11.17-01.39.36:925][836]LogOnline: Warning: OSS: [EOS SDK | Plugin] End Player Session...
+[2020.11.17-01.39.36:925][836]LogOnline: Warning: OSS: 463FA96C4F896A739830D88746F5D15F
+[2020.11.17-01.39.36:956][836]LogGame: Enable tab and nav keys: ture
+[2020.11.17-01.39.37:065][836]LogOnline: Warning: STEAM: Steamworks: SteamAPI_Init failed with app ID: 526870, type: Non Steam EXE
+[2020.11.17-01.39.37:065][836]LogOnline: Warning: STEAM: Steamworks: SteamUtils() failed!
+[2020.11.17-01.39.37:065][836]LogOnline: Warning: STEAM: Steamworks: SteamUser() failed!
+[2020.11.17-01.39.37:065][836]LogOnline: Warning: STEAM: Steamworks: SteamFriends() failed!
+[2020.11.17-01.39.37:065][836]LogOnline: Warning: STEAM: Steamworks: SteamRemoteStorage() failed!
+[2020.11.17-01.39.37:065][836]LogOnline: Warning: STEAM: Steamworks: SteamUserStats() failed!
+[2020.11.17-01.39.37:065][836]LogOnline: Warning: STEAM: Steamworks: SteamMatchmakingServers() failed!
+[2020.11.17-01.39.37:065][836]LogOnline: Warning: STEAM: Steamworks: SteamApps() failed!
+[2020.11.17-01.39.37:065][836]LogOnline: Warning: STEAM: Steamworks: SteamNetworking() failed!
+[2020.11.17-01.39.37:065][836]LogOnline: Warning: STEAM: Steamworks: SteamMatchmaking() failed!
+[2020.11.17-01.39.37:065][836]LogOnline: STEAM: [AppId: 0] Client API initialized 0
+[2020.11.17-01.39.37:065][836]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2020.11.17-01.39.37:065][836]LogOnline: Warning: STEAM: Steam API failed to initialize!
+[2020.11.17-01.39.37:065][836]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2020.11.17-01.39.37:120][836]LogOnline: Warning: STEAM: Steamworks: SteamAPI_Init failed with app ID: 526870, type: Non Steam EXE
+[2020.11.17-01.39.37:120][836]LogOnline: Warning: STEAM: Steamworks: SteamUtils() failed!
+[2020.11.17-01.39.37:120][836]LogOnline: Warning: STEAM: Steamworks: SteamUser() failed!
+[2020.11.17-01.39.37:120][836]LogOnline: Warning: STEAM: Steamworks: SteamFriends() failed!
+[2020.11.17-01.39.37:120][836]LogOnline: Warning: STEAM: Steamworks: SteamRemoteStorage() failed!
+[2020.11.17-01.39.37:120][836]LogOnline: Warning: STEAM: Steamworks: SteamUserStats() failed!
+[2020.11.17-01.39.37:120][836]LogOnline: Warning: STEAM: Steamworks: SteamMatchmakingServers() failed!
+[2020.11.17-01.39.37:120][836]LogOnline: Warning: STEAM: Steamworks: SteamApps() failed!
+[2020.11.17-01.39.37:120][836]LogOnline: Warning: STEAM: Steamworks: SteamNetworking() failed!
+[2020.11.17-01.39.37:120][836]LogOnline: Warning: STEAM: Steamworks: SteamMatchmaking() failed!
+[2020.11.17-01.39.37:120][836]LogOnline: STEAM: [AppId: 0] Client API initialized 0
+[2020.11.17-01.39.37:120][836]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2020.11.17-01.39.37:120][836]LogOnline: Warning: STEAM: Steam API failed to initialize!
+[2020.11.17-01.39.37:120][836]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2020.11.17-01.39.37:143][836]LogOnlineSession: OSS: EOS-OSS: Sessions Settings: public connections: 4, allow join via presence: 1
+[2020.11.17-01.39.37:143][836]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_SetPermissionLevel() set to (0)
+[2020.11.17-01.39.37:143][836]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_SetJoinInProgressAllowed() set to (1)
+[2020.11.17-01.39.37:143][836]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (NumPrivateConnections) with value (0)
+[2020.11.17-01.39.37:143][836]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (NumPublicConnections) with value (4)
+[2020.11.17-01.39.37:143][836]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (OwningPlayerName) with value (Collbrotherz)
+[2020.11.17-01.39.37:143][836]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (OwningNetId) with value (EOS::bf32c28149ea4a7daeb8ea2058d0ab85|000262b5b86747688be2b6f151187c97)
+[2020.11.17-01.39.37:143][836]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (bAntiCheatProtected) with value ()
+[2020.11.17-01.39.37:143][836]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (bUsesStats) with value ()
+[2020.11.17-01.39.37:143][836]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (bIsDedicated) with value ()
+[2020.11.17-01.39.37:143][836]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (BuildUniqueId) with value (5660361)
+[2020.11.17-01.39.37:143][836]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (OwningProductID) with value (000262b5b86747688be2b6f151187c97)
+[2020.11.17-01.39.37:143][836]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_HostId) with value (bf32c28149ea4a7daeb8ea2058d0ab85|000262b5b86747688be2b6f151187c97)
+[2020.11.17-01.39.37:143][836]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_NumConnectedPlayers) with value (0)
+[2020.11.17-01.39.37:143][836]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_PlayDuration) with value (13626)
+[2020.11.17-01.39.37:143][836]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_BuildVersion) with value (++FactoryGame+main-CL-136408)
+[2020.11.17-01.39.37:143][836]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_SaveSessionName) with value (Field)
+[2020.11.17-01.39.37:143][836]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_CSS_SessionId) with value (Fieldbf32c2811114454#VBA)
+[2020.11.17-01.39.37:143][836]LogOnlineSession: OSS: EOS-OSS: EOS_SessionModification_AddAttribute() named (FOSS=SES_natType) with value (CNT_Moderate)
+[2020.11.17-01.39.37:233][836]LogOnline: Warning: STEAM: Steamworks: SteamAPI_Init failed with app ID: 526870, type: Non Steam EXE
+[2020.11.17-01.39.37:233][836]LogOnline: Warning: STEAM: Steamworks: SteamUtils() failed!
+[2020.11.17-01.39.37:233][836]LogOnline: Warning: STEAM: Steamworks: SteamUser() failed!
+[2020.11.17-01.39.37:233][836]LogOnline: Warning: STEAM: Steamworks: SteamFriends() failed!
+[2020.11.17-01.39.37:233][836]LogOnline: Warning: STEAM: Steamworks: SteamRemoteStorage() failed!
+[2020.11.17-01.39.37:233][836]LogOnline: Warning: STEAM: Steamworks: SteamUserStats() failed!
+[2020.11.17-01.39.37:233][836]LogOnline: Warning: STEAM: Steamworks: SteamMatchmakingServers() failed!
+[2020.11.17-01.39.37:233][836]LogOnline: Warning: STEAM: Steamworks: SteamApps() failed!
+[2020.11.17-01.39.37:233][836]LogOnline: Warning: STEAM: Steamworks: SteamNetworking() failed!
+[2020.11.17-01.39.37:233][836]LogOnline: Warning: STEAM: Steamworks: SteamMatchmaking() failed!
+[2020.11.17-01.39.37:233][836]LogOnline: STEAM: [AppId: 0] Client API initialized 0
+[2020.11.17-01.39.37:233][836]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2020.11.17-01.39.37:233][836]LogOnline: Warning: STEAM: Steam API failed to initialize!
+[2020.11.17-01.39.37:233][836]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2020.11.17-01.39.37:290][836]LogOnline: Warning: STEAM: Steamworks: SteamAPI_Init failed with app ID: 526870, type: Non Steam EXE
+[2020.11.17-01.39.37:290][836]LogOnline: Warning: STEAM: Steamworks: SteamUtils() failed!
+[2020.11.17-01.39.37:290][836]LogOnline: Warning: STEAM: Steamworks: SteamUser() failed!
+[2020.11.17-01.39.37:290][836]LogOnline: Warning: STEAM: Steamworks: SteamFriends() failed!
+[2020.11.17-01.39.37:290][836]LogOnline: Warning: STEAM: Steamworks: SteamRemoteStorage() failed!
+[2020.11.17-01.39.37:290][836]LogOnline: Warning: STEAM: Steamworks: SteamUserStats() failed!
+[2020.11.17-01.39.37:290][836]LogOnline: Warning: STEAM: Steamworks: SteamMatchmakingServers() failed!
+[2020.11.17-01.39.37:290][836]LogOnline: Warning: STEAM: Steamworks: SteamApps() failed!
+[2020.11.17-01.39.37:290][836]LogOnline: Warning: STEAM: Steamworks: SteamNetworking() failed!
+[2020.11.17-01.39.37:290][836]LogOnline: Warning: STEAM: Steamworks: SteamMatchmaking() failed!
+[2020.11.17-01.39.37:290][836]LogOnline: STEAM: [AppId: 0] Client API initialized 0
+[2020.11.17-01.39.37:290][836]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2020.11.17-01.39.37:290][836]LogOnline: Warning: STEAM: Steam API failed to initialize!
+[2020.11.17-01.39.37:290][836]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2020.11.17-01.39.37:373][836]LogOnline: Warning: STEAM: Steamworks: SteamAPI_Init failed with app ID: 526870, type: Non Steam EXE
+[2020.11.17-01.39.37:373][836]LogOnline: Warning: STEAM: Steamworks: SteamUtils() failed!
+[2020.11.17-01.39.37:373][836]LogOnline: Warning: STEAM: Steamworks: SteamUser() failed!
+[2020.11.17-01.39.37:373][836]LogOnline: Warning: STEAM: Steamworks: SteamFriends() failed!
+[2020.11.17-01.39.37:373][836]LogOnline: Warning: STEAM: Steamworks: SteamRemoteStorage() failed!
+[2020.11.17-01.39.37:373][836]LogOnline: Warning: STEAM: Steamworks: SteamUserStats() failed!
+[2020.11.17-01.39.37:373][836]LogOnline: Warning: STEAM: Steamworks: SteamMatchmakingServers() failed!
+[2020.11.17-01.39.37:373][836]LogOnline: Warning: STEAM: Steamworks: SteamApps() failed!
+[2020.11.17-01.39.37:373][836]LogOnline: Warning: STEAM: Steamworks: SteamNetworking() failed!
+[2020.11.17-01.39.37:373][836]LogOnline: Warning: STEAM: Steamworks: SteamMatchmaking() failed!
+[2020.11.17-01.39.37:373][836]LogOnline: STEAM: [AppId: 0] Client API initialized 0
+[2020.11.17-01.39.37:373][836]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2020.11.17-01.39.37:373][836]LogOnline: Warning: STEAM: Steam API failed to initialize!
+[2020.11.17-01.39.37:373][836]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2020.11.17-01.39.37:432][836]LogOnline: Warning: STEAM: Steamworks: SteamAPI_Init failed with app ID: 526870, type: Non Steam EXE
+[2020.11.17-01.39.37:432][836]LogOnline: Warning: STEAM: Steamworks: SteamUtils() failed!
+[2020.11.17-01.39.37:432][836]LogOnline: Warning: STEAM: Steamworks: SteamUser() failed!
+[2020.11.17-01.39.37:432][836]LogOnline: Warning: STEAM: Steamworks: SteamFriends() failed!
+[2020.11.17-01.39.37:432][836]LogOnline: Warning: STEAM: Steamworks: SteamRemoteStorage() failed!
+[2020.11.17-01.39.37:432][836]LogOnline: Warning: STEAM: Steamworks: SteamUserStats() failed!
+[2020.11.17-01.39.37:432][836]LogOnline: Warning: STEAM: Steamworks: SteamMatchmakingServers() failed!
+[2020.11.17-01.39.37:432][836]LogOnline: Warning: STEAM: Steamworks: SteamApps() failed!
+[2020.11.17-01.39.37:432][836]LogOnline: Warning: STEAM: Steamworks: SteamNetworking() failed!
+[2020.11.17-01.39.37:432][836]LogOnline: Warning: STEAM: Steamworks: SteamMatchmaking() failed!
+[2020.11.17-01.39.37:432][836]LogOnline: STEAM: [AppId: 0] Client API initialized 0
+[2020.11.17-01.39.37:432][836]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2020.11.17-01.39.37:432][836]LogOnline: Warning: STEAM: Steam API failed to initialize!
+[2020.11.17-01.39.37:432][836]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2020.11.17-01.39.38:170][836]LogStreaming: Display: Suspending async loading (1)
+[2020.11.17-01.39.38:176][836]LogStreaming: Display: Resuming async loading (0)
+[2020.11.17-01.39.38:179][836]LogSlate: Request Window 'Satisfactory  ' being destroyed
+[2020.11.17-01.39.38:184][836]LogStreaming: Display: Suspending async loading (1)
+[2020.11.17-01.39.38:252][836]LogStreaming: Display: Resuming async loading (0)
+[2020.11.17-01.39.38:252][836]LogSlate: Window 'Satisfactory  ' being destroyed
+[2020.11.17-01.39.38:298][836]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.11.17-01.39.38:303][836]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.11.17-01.39.38:336][836]LogExit: Preparing to exit.
+[2020.11.17-01.39.38:336][836]LogMoviePlayer: Shutting down movie player
+[2020.11.17-01.39.38:473][836]LogOnline: Error: OSS: Leaderboards Interface Requested
+[2020.11.17-01.39.38:473][836]LogOnline: Error: OSS: Leaderboards Interface Requested
+[2020.11.17-01.39.38:682][836]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.17-01.39.38:994][836]LogExit: Game engine shut down
+[2020.11.17-01.39.39:745][836]LogExit: Object subsystem successfully closed.
+[2020.11.17-01.39.40:035][836]LogD3D11RHI: Shutdown
+[2020.11.17-01.39.40:035][836]LogD3D11RHI: CleanupD3DDevice
+[2020.11.17-01.39.40:067][836]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.11.17-01.39.40:067][836]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.11.17-01.39.40:069][836]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.11.17-01.39.40:069][836]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.11.17-01.39.40:069][836]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.11.17-01.39.40:069][836]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.11.17-01.39.40:749][836]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.11.17-01.39.40:859][836]LogModuleManager: Shutting down and abandoning module AIModule (208)
+[2020.11.17-01.39.40:859][836]LogModuleManager: Shutting down and abandoning module NavigationSystem (207)
+[2020.11.17-01.39.40:859][836]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (204)
+[2020.11.17-01.39.40:859][836]LogModuleManager: Shutting down and abandoning module WebMMedia (202)
+[2020.11.17-01.39.40:859][836]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (200)
+[2020.11.17-01.39.40:859][836]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (198)
+[2020.11.17-01.39.40:859][836]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (196)
+[2020.11.17-01.39.40:859][836]LogModuleManager: Shutting down and abandoning module CharacterAI (194)
+[2020.11.17-01.39.40:859][836]LogModuleManager: Shutting down and abandoning module SessionServices (192)
+[2020.11.17-01.39.40:859][836]LogModuleManager: Shutting down and abandoning module LevelSequence (190)
+[2020.11.17-01.39.40:862][836]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (188)
+[2020.11.17-01.39.40:862][836]LogModuleManager: Shutting down and abandoning module MovieScene (186)
+[2020.11.17-01.39.40:862][836]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (184)
+[2020.11.17-01.39.40:862][836]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (182)
+[2020.11.17-01.39.40:868][836]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (180)
+[2020.11.17-01.39.40:869][836]LogModuleManager: Shutting down and abandoning module EditableMesh (178)
+[2020.11.17-01.39.40:869][836]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (176)
+[2020.11.17-01.39.40:869][836]LogModuleManager: Shutting down and abandoning module CableComponent (174)
+[2020.11.17-01.39.40:869][836]LogModuleManager: Shutting down and abandoning module AudioCapture (172)
+[2020.11.17-01.39.40:869][836]LogModuleManager: Shutting down and abandoning module MediaCompositing (168)
+[2020.11.17-01.39.40:869][836]LogModuleManager: Shutting down and abandoning module LinearTimecode (166)
+[2020.11.17-01.39.40:869][836]LogModuleManager: Shutting down and abandoning module ImgMedia (164)
+[2020.11.17-01.39.40:869][836]LogModuleManager: Shutting down and abandoning module BackChannel (162)
+[2020.11.17-01.39.40:869][836]LogModuleManager: Shutting down and abandoning module AppleVision (160)
+[2020.11.17-01.39.40:869][836]LogModuleManager: Shutting down and abandoning module AppleImageUtils (158)
+[2020.11.17-01.39.40:869][836]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (156)
+[2020.11.17-01.39.40:869][836]LogModuleManager: Shutting down and abandoning module GeometryCache (154)
+[2020.11.17-01.39.40:869][836]LogModuleManager: Shutting down and abandoning module VariantManagerContent (152)
+[2020.11.17-01.39.40:869][836]LogModuleManager: Shutting down and abandoning module RawInput (150)
+[2020.11.17-01.39.40:869][836]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.11.17-01.39.40:869][836]LogModuleManager: Shutting down and abandoning module SteamController (148)
+[2020.11.17-01.39.40:869][836]LogModuleManager: Shutting down and abandoning module MediaIOCore (146)
+[2020.11.17-01.39.40:869][836]LogModuleManager: Shutting down and abandoning module Composure (144)
+[2020.11.17-01.39.40:869][836]LogModuleManager: Shutting down and abandoning module LoginFlow (142)
+[2020.11.17-01.39.40:869][836]LogModuleManager: Shutting down and abandoning module PlayTimeLimit (140)
+[2020.11.17-01.39.40:869][836]LogModuleManager: Shutting down and abandoning module Rejoin (138)
+[2020.11.17-01.39.40:869][836]LogModuleManager: Shutting down and abandoning module Hotfix (136)
+[2020.11.17-01.39.40:869][836]LogModuleManager: Shutting down and abandoning module Lobby (134)
+[2020.11.17-01.39.40:869][836]LogModuleManager: Shutting down and abandoning module Party (132)
+[2020.11.17-01.39.40:869][836]LogModuleManager: Shutting down and abandoning module Qos (130)
+[2020.11.17-01.39.40:873][836]LogModuleManager: Shutting down and abandoning module GameAnalyticsModule (128)
+[2020.11.17-01.39.40:873][836]GameAnalyticsModule: Display: GameAnalyticsModule has shut down
+[2020.11.17-01.39.40:873][836]LogModuleManager: Shutting down and abandoning module FactoryGame (126)
+[2020.11.17-01.39.40:873][836]LogModuleManager: Shutting down and abandoning module CoffeeCore (125)
+[2020.11.17-01.39.40:873][836]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (122)
+[2020.11.17-01.39.40:880][836]LogModuleManager: Shutting down and abandoning module PhysXVehicles (120)
+[2020.11.17-01.39.40:880][836]LogModuleManager: Shutting down and abandoning module ActorSequence (118)
+[2020.11.17-01.39.40:880][836]LogModuleManager: Shutting down and abandoning module UdpMessaging (116)
+[2020.11.17-01.39.40:885][836]LogModuleManager: Shutting down and abandoning module TcpMessaging (114)
+[2020.11.17-01.39.40:885][836]LogModuleManager: Shutting down and abandoning module FacialAnimation (112)
+[2020.11.17-01.39.40:885][836]LogModuleManager: Shutting down and abandoning module AnimationSharing (110)
+[2020.11.17-01.39.40:885][836]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (108)
+[2020.11.17-01.39.40:885][836]LogModuleManager: Shutting down and abandoning module AISupportModule (106)
+[2020.11.17-01.39.40:885][836]LogModuleManager: Shutting down and abandoning module Paper2D (104)
+[2020.11.17-01.39.40:885][836]LogModuleManager: Shutting down and abandoning module SignificanceManager (102)
+[2020.11.17-01.39.40:885][836]LogModuleManager: Shutting down and abandoning module ApexDestruction (100)
+[2020.11.17-01.39.40:885][836]LogModuleManager: Shutting down and abandoning module ReplicationGraph (98)
+[2020.11.17-01.39.40:885][836]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (96)
+[2020.11.17-01.39.40:886][836]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (94)
+[2020.11.17-01.39.40:886][836]LogModuleManager: Shutting down and abandoning module PacketHandler (92)
+[2020.11.17-01.39.40:886][836]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (90)
+[2020.11.17-01.39.40:908][836]LogModuleManager: Shutting down and abandoning module MediaAssets (88)
+[2020.11.17-01.39.40:908][836]LogModuleManager: Shutting down and abandoning module Overlay (86)
+[2020.11.17-01.39.40:908][836]LogModuleManager: Shutting down and abandoning module UMG (84)
+[2020.11.17-01.39.40:908][836]LogModuleManager: Shutting down and abandoning module Slate (82)
+[2020.11.17-01.39.40:908][836]LogModuleManager: Shutting down and abandoning module MRMesh (80)
+[2020.11.17-01.39.40:908][836]LogModuleManager: Shutting down and abandoning module Messaging (78)
+[2020.11.17-01.39.40:918][836]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (76)
+[2020.11.17-01.39.40:918][836]LogModuleManager: Shutting down and abandoning module XAudio2 (74)
+[2020.11.17-01.39.40:918][836]LogModuleManager: Shutting down and abandoning module Networking (72)
+[2020.11.17-01.39.40:918][836]LogModuleManager: Shutting down and abandoning module Core (70)
+[2020.11.17-01.39.40:918][836]LogModuleManager: Shutting down and abandoning module AkAudio (68)
+[2020.11.17-01.39.41:062][836]LogInit: Audiokinetic Audio Device terminated.
+[2020.11.17-01.39.41:062][836]LogModuleManager: Shutting down and abandoning module ImageWrapper (64)
+[2020.11.17-01.39.41:062][836]LogModuleManager: Shutting down and abandoning module InputCore (62)
+[2020.11.17-01.39.41:062][836]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2020.11.17-01.39.41:062][836]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (58)
+[2020.11.17-01.39.41:062][836]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (56)
+[2020.11.17-01.39.41:062][836]LogModuleManager: Shutting down and abandoning module WmfMedia (54)
+[2020.11.17-01.39.41:064][836]LogModuleManager: Shutting down and abandoning module Media (53)
+[2020.11.17-01.39.41:070][836]LogModuleManager: Shutting down and abandoning module DatasmithContent (50)
+[2020.11.17-01.39.41:070][836]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (48)
+[2020.11.17-01.39.41:070][836]LogModuleManager: Shutting down and abandoning module OpenColorIO (46)
+[2020.11.17-01.39.41:070][836]LogModuleManager: Shutting down and abandoning module LensDistortion (44)
+[2020.11.17-01.39.41:070][836]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (40)
+[2020.11.17-01.39.41:107][836]LogOnline: Warning: OSS: EOSSDK-LogEOSUI: Social Overlay: browser was closed. Reopening...
+[2020.11.17-01.39.41:235][836]LogOnline: Warning: OSS: EOSSDK-LogEOSSessions: Backend in progress state out of sync with client
+[2020.11.17-01.39.41:235][836]LogOnline: Warning: OSS: EOSSDK-LogEOSSessions: Invites Allowed was enabled on a session which is not the presence session.  Only the presence session will advertise that invites are allowed.
+[2020.11.17-01.39.41:618][836]LogOnline: OSS: Destroying FUserManagerEOS at 000002185A07AB00
+[2020.11.17-01.39.42:429][836]LogModuleManager: Shutting down and abandoning module HTTP (33)
+[2020.11.17-01.39.42:429][836]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.11.17-01.39.42:429][836]LogHttp: Display: 	verb=[POST] url=[https://api.stathat.com/ez] status=Processing
+[2020.11.17-01.39.42:469][836]LogModuleManager: Shutting down and abandoning module SSL (32)
+[2020.11.17-01.39.42:481][836]LogModuleManager: Shutting down and abandoning module RenderCore (28)
+[2020.11.17-01.39.42:481][836]LogModuleManager: Shutting down and abandoning module InstancedSplines (26)
+[2020.11.17-01.39.42:481][836]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2020.11.17-01.39.42:481][836]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2020.11.17-01.39.42:498][836]LogModuleManager: Shutting down and abandoning module OpenGLDrv (20)
+[2020.11.17-01.39.42:498][836]LogModuleManager: Shutting down and abandoning module D3D11RHI (18)
+[2020.11.17-01.39.42:498][836]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (16)
+[2020.11.17-01.39.42:498][836]LogModuleManager: Shutting down and abandoning module Renderer (14)
+[2020.11.17-01.39.42:508][836]LogModuleManager: Shutting down and abandoning module Engine (12)
+[2020.11.17-01.39.42:508][836]LogModuleManager: Shutting down and abandoning module CoreUObject (10)
+[2020.11.17-01.39.42:508][836]LogModuleManager: Shutting down and abandoning module SandboxFile (8)
+[2020.11.17-01.39.42:508][836]LogModuleManager: Shutting down and abandoning module PakFile (6)
+[2020.11.17-01.39.42:534][836]LogModuleManager: Shutting down and abandoning module RSA (5)
+[2020.11.17-01.39.42:534][836]LogModuleManager: Shutting down and abandoning module LauncherCheck (2)
+[2020.11.17-01.39.42:544][836]LogExit: Exiting.
+[2020.11.17-01.39.42:557][836]Log file closed, 11/17/20 02:39:42
