@@ -9,3 +9,5 @@ app.use(helmet())
 app.get("/logs/satisfactory/FactoryGame.log", (req, res) => {
     res.sendFile(path.join(__dirname, "../Client/satisfactory/FactoryGame.log"))
 })
+
+app.listen(8080)
